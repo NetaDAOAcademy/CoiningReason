@@ -363,7 +363,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### UnitPart IX: Religion
+### Unit IX: Religion
 
 <details>
 
