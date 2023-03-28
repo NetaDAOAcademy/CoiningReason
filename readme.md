@@ -5,7 +5,7 @@
 > —Marshall McLuhan
 
 
-The Coining Reason discussion series focuses each week on blockchain issues through a text or set of texts related to a particular subject area. Below is a rough 'roadmap' of subject areas as well as potential reading lists. 
+The Coining Reason discussion series focuses each week on blockchain issues through a text or set of texts related to a particular subject area. Below is a rough roadmap of subject areas ("Units"), as well as potential reading lists for each. 
 
 The first session, "Cypherpunk," has readings set and avaialable at the links below. Future sessions' readings will be made available through the Neta DAO Discord server.
 
@@ -14,7 +14,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ## Schedule
 
-**Session 1. Cypherpunk: A Debate**
+**Session 1. Cypherpunk**
 
 * Eric Hughes, "A Cypherpunk's Manifesto," https://activism.net/cypherpunk/manifesto.html
 
@@ -22,6 +22,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Nick Srnicek, "Trusting the Trustless," from https://fabricatedintimacy.tech/articles/example-2
 
+
+## Roadmap
 
 ### Unit I: The Internet
 
