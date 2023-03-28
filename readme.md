@@ -43,7 +43,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 4. Enjoying the Internet**
 
-* Clint Burnham, "Does the Internet Have an Unconscious?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ 
+* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ 
 
 * _Optional:_ Jerry Aline Flieger, "Twists and Trysts: Freud and the Millennial Knot" from _Is Oedipus Online? Siting Freud after Freud_
 
