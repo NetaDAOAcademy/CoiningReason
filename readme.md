@@ -135,6 +135,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
   
 * Davide Tarizzo, "The Two Paths to Modern Democracy," from _Political Grammars: The Unconscious Foundations of Modern Democracy_
 
+* _Optional:_ Jean-Luc Nancy, "Finite and Infinite Democracy," from _Democracy In What State?_ (trans. William McCuaig)  
+
 **Session 3. Labor After Fordism**
 
 * Franco Piperno, "Technological Innovation and Sentimental Education," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
