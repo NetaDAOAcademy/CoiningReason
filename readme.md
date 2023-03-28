@@ -134,7 +134,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 **Session 2. The Paradox of Constitution**
   
 * Emilios Christodoulidis, "Against Substitution: The Constitutional Thinking of Dissesnsus," from _The Paradox of Constitutionalism: Constituent Power and Constitutional Form_ (eds Martin Loughlin and Neil Walker)
-  
+ 
 **Session 3. Democracy and Decentralization**
 
 * Jacques Ranciere, "Democracy, Republic, Representation," from from _Hatred of Democracy_
