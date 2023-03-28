@@ -85,6 +85,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 **Session 1. Currency vs Money**
 
 * Gaspar Feliu, "Money and Currency," from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
+  
+* Edward Castranova, "Weirdly Normal: Virtual Economies and Virtual Money," from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
 **Session 2. Theories of Money**
 
@@ -232,24 +234,32 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 **Session 1. Piracy, a Philosophy**
 
 * Daniel Heller-Roazen, "Earth and Sea," "Into the Air," and "Toward Perpetual War," from _The Enemy of All: Piracy and the Law of Nations_
+  
+**Session 2. Tort and Contract**
 
-**Session 2. Blockchain and/as Law**
+* Frances Ferguson, "Justine, or the Law of the Road," from _Pornography, The Theory: What Utilitarianism Did to Action_
+
+**Session 3. Blockchain and/as Law**
 
 * Kevin Werbach, "Blockchain Governance" and "Blockchain as/and Law," from _Blockchain and the New Architecture of Trust_
 
-**Session 3. Regulating Blockchain**
+**Session 4. Regulating Blockchain**
 
 * William Magnusson, "The Penumbra Problem," from _Blockchain Democracy: Technology, Law, and the Rule of the Crowd_
 
-**Session 4. What are Securities?**
+**Session 5. Crypto and/as State**
+  
+* Edward Castranova, "Wildcat Currency and the State," from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
+  
+**Session 6. What are Securities?**
 
 * Nicholas Georgokapoulos, "Part 1," from _The Logic of Securities Law_
 
-**Session 5. What are Securities? Part 2**
+**Session 7. What are Securities? Part 2**
 
 * Nicholas Georgokapoulos, "Part 3," from _The Logic of Securities Law_
 
-**Session 6. Decentralization and the Law: Practice**
+**Session 8. Decentralization and the Law: Practice**
 
 * Marc Boiron, "Sufficient Decentralization," from https://variant.fund/articles/sufficient-decentralization/
 
@@ -266,7 +276,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Justin Smith, "The Ecology of the Internet," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_
 
-**Session 2. Surplus Value, Part 3: Surplus Enjoyment Edition**
+**Session 2. Surplus Value, Part 3: Surplus Enjoyment**
 
 * Slavoj Zizek, "Where is the Rift? Marx, Capitalism, and Ecology," from _Surplus-Enjoyment: A Guide for the Non-Perplexed_
 
@@ -395,7 +405,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Frank Ruda, "Protestant Fatalism: Predestination as Emancipation," from Abolishing Freedom: A Plea for a Contemporary Use of Fatalism
 
-**Session 7. Postmodern Belief and Incredulity**
+**Session 7. Postmodern (In)credulity**
 
 * Richard Boothby, "Other Paths, Other Gods," from _Embracing the Void: Rethinking the Origin of the Sacred_
 
@@ -412,9 +422,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Jean-Hugues Barthelemy, _Life and Technology: An Inquiry Into and Beyond Simondon_
 
-* Frances Ferguson, "Justine, or the Law of the Road," from _Pornography, The Theory: What Utilitarianism Did to Action_
-  
-* 
 
 
 </details> 
