@@ -4,6 +4,7 @@
 > 
 > —Marshall McLuhan
 
+## Summary
 
 The Coining Reason discussion series focuses each week on blockchain issues through a text or set of texts related to a particular subject area. Below is a rough roadmap of subject areas ("Units"), as well as potential reading lists for each. 
 
