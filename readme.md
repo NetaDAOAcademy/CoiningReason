@@ -184,7 +184,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
   
 * Gilles Deleuze and Claire Parnet, "A Conversation: What Is It? What Is It For?" from _Dialogues II_
   
-* Avital Ronnell, "Derida to Freud: The Return Call," from _The Telephone Book: Technology, Schizophrenia, Electric Speech_
+* Avital Ronnell, "Derrida to Freud: The Return Call," from _The Telephone Book: Technology, Schizophrenia, Electric Speech_
   
 **Session 2. Crypto-Anarchism**
 
