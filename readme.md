@@ -23,7 +23,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 * Nick Srnicek, "Trusting the Trustless," from https://fabricatedintimacy.tech/articles/example-2
 
 
-### Part I: The Internet
+### Unit I: The Internet
 
 <details>
 
@@ -70,7 +70,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details> 
 
 
-### Part II: Economics
+### Unit II: Economics
 
 <details>
 
@@ -113,7 +113,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part III: Politics
+### Unit III: Politics
 
 <details>
 
@@ -156,7 +156,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part IV: Philosophy
+### Unit IV: Philosophy
 
 <details>
 
@@ -201,7 +201,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part V: Law
+### Unit V: Law
 
 <details>
 
@@ -234,7 +234,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part VI: Ecology
+### Unit VI: Ecology
 
 <details>
 
@@ -259,7 +259,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part VII: Business
+### Unit VII: Business
 
 <details>
 
@@ -300,7 +300,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part VIII: Art
+### Unit VIII: Art
 
 <details>
 
@@ -343,7 +343,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-###  Part IX: Religion
+### UnitPart IX: Religion
 
 <details>
 
@@ -380,7 +380,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details>
 
 
-### Part X: Miscellany: AI
+### Unit X: Miscellany: AI
 
 <details>
 
