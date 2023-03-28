@@ -53,7 +53,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
   
 * _Optional:_ Jerry Aline Flieger, "Twists and Trysts: Freud and the Millennial Knot" from _Is Oedipus Online? Siting Freud after Freud_
   
-**Session 6. Digital Body**
+**Session 6. Digital Bodies**
   
 * Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ 
   
