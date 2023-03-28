@@ -35,23 +35,29 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 2. Web 1.0**
 
-* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0," from _An Internet for the People: The Politics and Promise of Craigslist_
+* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_
 
 **Session 3. Web 2.0**
 
+* Charles Petzold,  "The World Brain," from _Code: THe Hidden Language of Computer Hardware and Software*
+  
 * Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_
 
-**Session 4. Enjoying the Internet**
-
-* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ 
-
-* _Optional:_ Jerry Aline Flieger, "Twists and Trysts: Freud and the Millennial Knot" from _Is Oedipus Online? Siting Freud after Freud_
-
-**Session 5. Life on Computer**
+**Session 4. Life on Computer**
 
 * Wendy Chun, "Order from Order, or Life According to Software," from _Programmed Visions: Software and Memory_
 
-**Session 6. Web 3.0**
+**Session 5. Enjoying the Internet**
+
+* André Nusselder, "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology*
+  
+* _Optional:_ Jerry Aline Flieger, "Twists and Trysts: Freud and the Millennial Knot" from _Is Oedipus Online? Siting Freud after Freud_
+  
+**Session 6. Digital Body**
+  
+* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ 
+  
+**Session 7. Web 3.0**
 
 * Joel Monegro, "The Blockchain Application Stack," https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/
 
@@ -61,7 +67,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * ---, "Thin Applications" https://www.placeholder.vc/blog/2020/1/30/thin-applications
 
-**Session 7. Social Money**
+**Session 8. Social Money**
 
 * Nick Szabo, "Money, Blockchains, and Social Scalability," from https://nakamotoinstitute.org/money-blockchains-and-social-scalability/
 
@@ -198,6 +204,10 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Jean-Luc Nancy, _The Truth of Democracy_
 
+**Session 8. Assembly**
+  
+* Judith Butler, "'We The Peoples'—Thoughts on Freedom of Assembly," from *Notes Towards a Performative Theory of Aassembly*
+  
 </details>
 
 
