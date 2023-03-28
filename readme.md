@@ -45,7 +45,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 4. Life on Computer**
 
-* Wendy Chun, "Order from Order, or Life According to Software," from _Programmed Visions: Software and Memory_
+* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_
 
 **Session 5. Enjoying the Internet**
 
@@ -129,7 +129,11 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Antonio Negri, "Constituent Power: The Concept of a Crisis," from _Insurgencies: Constituent Power and the Modern State_
 
-**Session 2. Democracy and Decentralization**
+**Session 2. The Paradox of Constitution**
+  
+* 
+  
+**Session 3. Democracy and Decentralization**
 
 * Jacques Ranciere, "Democracy, Republic, Representation," from from _Hatred of Democracy_
   
@@ -137,29 +141,31 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * _Optional:_ Jean-Luc Nancy, "Finite and Infinite Democracy," from _Democracy In What State?_ (trans. William McCuaig)  
 
-**Session 3. Labor After Fordism**
+**Session 4. Labor After Fordism**
 
 * Franco Piperno, "Technological Innovation and Sentimental Education," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
 
 * Maurizio Lazzarato, "Immaterial Labor," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
 
-**Session 4. Exit**
+**Session 5. Exit**
 
 * Paolo Virno, "Virtuosity and Revolution: A Political Theory of Exodus," from _The Idea of World: Public Intellect and Use of Life_
 
-**Session 5. Software Politics**
+**Session 6. Software Politics**
 
 * Benjamin Bratton, "The Nomos of the Cloud," from _The Stack: On Software and Sovereignty_
 
-**Session 6. The Role of Institutions**
+**Session 7. The Role of Institutions**
 
 * Kevin Werbach, "More Than Money," from _Blockchain and the New Architecture of Trust_
 
-**Session 7. Another Politics?**
+**Session 8. Another Politics?**
 
+* Judith Butler, "'We The Peoples'—Thoughts on Freedom of Assembly," from *Notes Towards a Performative Theory of Aassembly*
+  
 * Susan Buck-Morss, _Revolution Today_
 
-**Session 8: Political Economy** 
+**Session 9: Political Economy** 
 
 * Spencer Pack, "Part IV: Current Issues on the Political Economy of Bitcoin and Cryptocurrencies," from _The Political Economy and Feasibility of Bitcoin and Cryptocurrencies: Insights from the History of Economic Thought_
 
@@ -172,45 +178,45 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 <summary> Readings </summary>
 
-**Session 1. Anarchism**
+**Session 1. Talking Philosophy**
+  
+* Gilles Deleuze and Claire Parnet, "A Conversation: What Is It? What Is It For?" from _Dialogues II_
+  
+**Session 2. Crypto-Anarchism**
 
 * Catherine Malabou, "Cryptocurrencies: Anarchist Turn or Strengthening of Surveillance Capitalism? Bitcoin to Libra" from _Australian Humanities Review,_ http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/
 
 * Salman Sadeghi, "In Search of Lost Time: A Note on Catherine Malabou's Reading of Cryptocurrencies," from _GCAS Review,_ https://www.gcasreview.com/magazine-1/2022/4/15/in-search-of-lost-time-a-note-on-catherine-malabous-reading-of-cryptocurrencies-by-salman-sadeghi
 
-**Session 2. Transcendental Blockchain?**
+**Session 3. Transcendental Blockchain?**
 
 * Nick Land, "Crypto-Current: An Introduction to Blockchain and Philosophy," from _Sum #10.2: Cryptocene,_ https://aksioma.org/pdf/sum10-2_cryptocene.pdf
 
-**Session 3. Finance and Philosophy**
+**Session 4. Finance and Philosophy**
 
-* Arne de Boever, "The Financial Universe (After Meillassoux)," from Finance Fictions: Realism and Psychosis in Times of Economic Crisis
+* Arne de Boever, "The Financial Universe (After Meillassoux)," from _Finance Fictions: Realism and Psychosis in Times of Economic Crisis_
 
-**Session 3. Surplus-Value: Redux**
+**Session 5. Surplus-Value: Redux**
 
 * Georges Bataille, "Theoretical Introduction," from _The Accursed Share: An Essay on General Economy, Vol 1: Consumption_
 
-**Session 4. Living Economy**
+**Session 6. Living Money**
 
 * Pierre Klossowski, "Living Currency," from _Living Currency_
 
-**Session 5. Epmires of Thinking**
+**Session 7. Epmires of Thinking**
 
 * Kojin Karatani, "Socrates and Empire," from _Isonomia and the Origins of Philosophy_
 
-**Session 6. Individuation and the Commons**
+**Session 8. Individuation and the Commons**
 
 * Muriel Combes, "On Being and the Status of the One," "The Transindividual Relation," and "The Intimacy of the Commons," from _Gilbert Simondon and the Philosophy of the Transindividual_
 
-**Session 7. The Many and the One**
+**Session 9. The Many and the One**
 
 * Duane Rousselle, "Revolutions of the One," from _Post-Anarchism and Psychoanalysis_
 
 * Jean-Luc Nancy, _The Truth of Democracy_
-
-**Session 8. Assembly**
-  
-* Judith Butler, "'We The Peoples'—Thoughts on Freedom of Assembly," from *Notes Towards a Performative Theory of Aassembly*
   
 </details>
 
