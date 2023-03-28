@@ -131,7 +131,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 2. The Paradox of Constitution**
   
-* 
+* Emilios Christodoulidis, "Against Substitution: The Constitutional Thinking of Dissesnsus," from _The Paradox of Constitutionalism: Constituent Power and Constitutional Form_ (eds Martin Loughlin and Neil Walker)
   
 **Session 3. Democracy and Decentralization**
 
@@ -181,6 +181,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 **Session 1. Talking Philosophy**
   
 * Gilles Deleuze and Claire Parnet, "A Conversation: What Is It? What Is It For?" from _Dialogues II_
+  
+* Avital Ronnell, "Derida to Freud: The Return Call," from _The Telephone Book: Technology, Schizophrenia, Electric Speech_
   
 **Session 2. Crypto-Anarchism**
 
@@ -407,5 +409,12 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 <summary> Readings </summary>
 
 * Isabel Millar, "The Stupidity of Intelligence," from _The Psychoanalysis of Artificial Intelligence_
+
+* Jean-Hugues Barthelemy, _Life and Technology: An Inquiry Into and Beyond Simondon_
+
+* Frances Ferguson, "Justine, or the Law of the Road," from _Pornography, The Theory: What Utilitarianism Did to Action_
+  
+* 
+
 
 </details> 
