@@ -131,15 +131,17 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 2. Democracy and Decentralization**
 
-* Jacques Ranciere, "Democracy, Republic, Representation" and "The Rationality of a Hatred," from _Hatred of Democracy_
+* Jacques Ranciere, "Democracy, Republic, Representation," from from _Hatred of Democracy_
+  
+* Davide Tarizzo, "The Two Paths to Modern Democracy," from _Political Grammars: The Unconscious Foundations of Modern Democracy_
 
-**Session 3. Post-Fordism**
+**Session 3. Labor After Fordism**
 
 * Franco Piperno, "Technological Innovation and Sentimental Education," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
 
 * Maurizio Lazzarato, "Immaterial Labor," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
 
-**Session 4. Exodus**
+**Session 4. Exit**
 
 * Paolo Virno, "Virtuosity and Revolution: A Political Theory of Exodus," from _The Idea of World: Public Intellect and Use of Life_
 
