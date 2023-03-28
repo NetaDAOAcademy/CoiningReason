@@ -39,7 +39,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 3. Web 2.0**
 
-* Charles Petzold,  "The World Brain," from _Code: THe Hidden Language of Computer Hardware and Software_
+* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_
   
 * Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_
 
