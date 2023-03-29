@@ -17,11 +17,11 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 1. Cypherpunk**
 
-* Eric Hughes, "A Cypherpunk's Manifesto," https://activism.net/cypherpunk/manifesto.html
+* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
 
-* Timothy May, "The Crypto Anarchist Manifesto" https://activism.net/cypherpunk/crypto-anarchy.html
+* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
 
-* Nick Srnicek, "Trusting the Trustless," from https://fabricatedintimacy.tech/articles/example-2
+* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
 
 
 ## Roadmap
@@ -62,19 +62,19 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
   
 **Session 7. Web 3.0**
 
-* Joel Monegro, "The Blockchain Application Stack," https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/
+* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
 
-* ---, "The Shared Data Layer of the Blockchain Application Stack," https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain
+* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
 
-* ---,"Fat Protocols," https://www.usv.com/blog/fat-protocols
+* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
 
-* ---, "Thin Applications" https://www.placeholder.vc/blog/2020/1/30/thin-applications
+* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
 
 **Session 8. Social Money**
 
-* Nick Szabo, "Money, Blockchains, and Social Scalability," from https://nakamotoinstitute.org/money-blockchains-and-social-scalability/
+* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
 
-* Jameson Lopp, "Who Controls Bitcoin Core?" from https://blog.lopp.net/who-controls-bitcoin-core-/
+* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
 
 </details> 
 
@@ -137,6 +137,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 **Session 2. The Paradox of Constitution**
   
 * Emilios Christodoulidis, "Against Substitution: The Constitutional Thinking of Dissesnsus," from _The Paradox of Constitutionalism: Constituent Power and Constitutional Form_ (eds Martin Loughlin and Neil Walker)
+
+* Martin Loughlin, "Constitutional Democracy," from _Against Constitutionalism_
  
 **Session 3. Democracy and Decentralization**
 
@@ -191,9 +193,9 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
   
 **Session 2. Crypto-Anarchism**
 
-* Catherine Malabou, "Cryptocurrencies: Anarchist Turn or Strengthening of Surveillance Capitalism? Bitcoin to Libra" from _Australian Humanities Review,_ http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/
+* Catherine Malabou, "[Cryptocurrencies: Anarchist Turn or Strengthening of Surveillance Capitalism? Bitcoin to Libra](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/)" from _Australian Humanities Review_
 
-* Salman Sadeghi, "In Search of Lost Time: A Note on Catherine Malabou's Reading of Cryptocurrencies," from _GCAS Review,_ https://www.gcasreview.com/magazine-1/2022/4/15/in-search-of-lost-time-a-note-on-catherine-malabous-reading-of-cryptocurrencies-by-salman-sadeghi
+* Salman Sadeghi, "[In Search of Lost Time: A Note on Catherine Malabou's Reading of Cryptocurrencies](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/) from _GCAS Review_
 
 **Session 3. Transcendental Blockchain?**
 
@@ -264,7 +266,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 8. Decentralization and the Law: Practice**
 
-* Marc Boiron, "Sufficient Decentralization," from https://variant.fund/articles/sufficient-decentralization/
+* Marc Boiron, "[Sufficient Decentralization](https://variant.fund/articles/sufficient-decentralization/)"
 
 </details>
 
@@ -328,9 +330,11 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 **Session 7. DAOs**
 
-* Vitalik Buterin, "Superrationality and DAOs," https://blog.ethereum.org/2015/01/23/superrationality-daos
+* Vitalik Buterin, "[Superrationality and DAOs](https://blog.ethereum.org/2015/01/23/superrationality-daos)"
 
-* Vitalik Buterin, "DAOs Are Not Corporations,"https://vitalik.ca/general/2022/09/20/daos.html
+* Vitalik Buterin, "[DAOs Are Not Corporations](https://vitalik.ca/general/2022/09/20/daos.html)"
+
+* Eric Alston, "[Governance as Conflict: Constitution of Shared Values Defining Future Margins of Disagreement](https://law.mit.edu/pub/governanceasconflict/release/1)," from _MIT Computational Law Report_
 
 </details>
 
@@ -424,8 +428,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 * Isabel Millar, "The Stupidity of Intelligence," from _The Psychoanalysis of Artificial Intelligence_
 
 * Jean-Hugues Barthelemy, _Life and Technology: An Inquiry Into and Beyond Simondon_
-
-* Martin Loughlin, "Constitutional Democracy," from _Against Constitutionalism_
 
 * Gigi Roggero, "Operaismo Beyond Operaismo," from _Italian Operaismo: Genealogy, History, Method_ (trans Clara Pope)
 
