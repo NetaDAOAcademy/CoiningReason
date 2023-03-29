@@ -425,6 +425,9 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Jean-Hugues Barthelemy, _Life and Technology: An Inquiry Into and Beyond Simondon_
 
+* Martin Loughlin, "Constitutional Democracy," from _Against Constitutionalism_
+
+* Gigi Roggero, "Operaismo Beyond Operaismo," from _Italian Operaismo: Genealogy, History, Method_ (trans Clara Pope)
 
 
 </details> 
