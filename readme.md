@@ -19,7 +19,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Eric Hughes, "A Cypherpunk's Manifesto," https://activism.net/cypherpunk/manifesto.html
 
-* * Timothy May, "The Crypto Anarchist Manifesto" https://activism.net/cypherpunk/crypto-anarchy.html
+* Timothy May, "The Crypto Anarchist Manifesto" https://activism.net/cypherpunk/crypto-anarchy.html
 
 * Nick Srnicek, "Trusting the Trustless," from https://fabricatedintimacy.tech/articles/example-2
 
