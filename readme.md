@@ -75,8 +75,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
 
-</details> 
-<br>
+</details><br>
+
 ### Unit II: Economics
 
 <details markdown="1">
@@ -119,8 +119,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Colin Drumm, excerpts from _The Difference Money Makes,_ dissertation
 
-</details>
-<br>
+</details><br>
+
 ### Unit III: Politics
 
 <details markdown="1">
@@ -173,8 +173,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Spencer Pack, "Part IV: Current Issues on the Political Economy of Bitcoin and Cryptocurrencies," from _The Political Economy and Feasibility of Bitcoin and Cryptocurrencies: Insights from the History of Economic Thought_
 
-</details>
-<br>
+</details><br>
+
 ### Unit IV: Philosophy
 
 <details markdown="1">
@@ -223,8 +223,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Jean-Luc Nancy, _The Truth of Democracy_
   
-</details>
-<br>
+</details><br>
+
 ### Unit V: Law
 
 <details markdown="1">
@@ -263,8 +263,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Marc Boiron, "[Sufficient Decentralization](https://variant.fund/articles/sufficient-decentralization/)"
 
-</details>
-<br>
+</details><br>
+
 ### Unit VI: Ecology
 
 <details markdown="1">
@@ -287,8 +287,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Kohei Saito, "Marx's Theory of Metabolism in the Age of Global Ecological Crisis," from _Marx in the Anthropocene: Towards the Idea of Degrowth Communism_
 
-</details>
-<br>
+</details><br>
+
 ### Unit VII: Business
 
 <details markdown="1">
@@ -329,8 +329,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Eric Alston, "[Governance as Conflict: Constitution of Shared Values Defining Future Margins of Disagreement](https://law.mit.edu/pub/governanceasconflict/release/1)," from _MIT Computational Law Report_
 
-</details>
-<br>
+</details><br>
+
 ### Unit VIII: Art
 
 <details markdown="1">
@@ -371,8 +371,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Moritz J. Kleinaltenkamp and Shaz Ansari, "Blockchain and the Performativity of Emerging Technology Theories," from _Organizing in the Digital Age: Understanding the Dynamics of Work, Innovation, and Collective Action_
 
-</details>
-<br>
+</details><br>
+
 ### Unit IX: Religion
 
 <details markdown="1">
@@ -407,8 +407,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Richard Boothby, "Other Paths, Other Gods," from _Embracing the Void: Rethinking the Origin of the Sacred_
 
-</details>
-<br>
+</details><br>
+
 ### Unit X: Miscellany: Overflow
 
 <details markdown="1">
