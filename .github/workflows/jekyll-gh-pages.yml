@@ -36,7 +36,7 @@ jobs:
           source: ./
           destination: ./_site
           # Add the following line to use the markdown processor for Jekyll
-          args: --markdown=CommonMarkGhPages
+          args: --markdown=kramdown
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
