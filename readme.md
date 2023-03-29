@@ -1,8 +1,8 @@
 # Coining Reason: A Roadmap
 
-> It is the framework which changes with each new technology and not just the picture within the frame.
-> 
-> —Marshall McLuhan
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is the framework which changes with each new technology and not just the picture within the frame.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; —Marshall McLuhan
 
 ## Summary
 
