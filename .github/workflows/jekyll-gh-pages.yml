@@ -31,12 +31,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v2
+        uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
           # Add the following line to use the markdown processor for Jekyll
-          config: _config.yml,_config_production.yml
+          args: --markdown=kramdown
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
