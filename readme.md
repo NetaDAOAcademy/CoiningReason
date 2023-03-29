@@ -28,7 +28,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit I: The Internet
 
-<details>
+<details markdown="1">
 
 <summary> Readings </summary>
 
