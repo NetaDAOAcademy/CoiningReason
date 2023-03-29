@@ -77,7 +77,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details> 
 <br>
-
 ### Unit II: Economics
 
 <details markdown="1">
@@ -122,7 +121,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit III: Politics
 
 <details markdown="1">
@@ -177,7 +175,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit IV: Philosophy
 
 <details markdown="1">
@@ -228,7 +225,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
   
 </details>
 <br>
-
 ### Unit V: Law
 
 <details markdown="1">
@@ -269,7 +265,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit VI: Ecology
 
 <details markdown="1">
@@ -294,7 +289,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit VII: Business
 
 <details markdown="1">
@@ -337,7 +331,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit VIII: Art
 
 <details markdown="1">
@@ -380,7 +373,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit IX: Religion
 
 <details markdown="1">
@@ -417,7 +409,6 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details>
 <br>
-
 ### Unit X: Miscellany: Overflow
 
 <details markdown="1">
