@@ -15,7 +15,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ## Schedule
 
-**Session 1. Cypherpunk**
+**Session 0. Cypherpunk**
 
 * Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
 
