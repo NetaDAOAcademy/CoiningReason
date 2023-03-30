@@ -1,4 +1,4 @@
-<img src="https://cbjolomkva.cloudimg.io/nftstorage.link/ipfs/bafybeiasdzgifojdqmrybannggwd3bppb455kuz7xhckecodtpgtivxnpq/23.png" width="400"/>
+<img src="https://cbjolomkva.cloudimg.io/nftstorage.link/ipfs/bafybeif3r7ixj6miv2zbvhgzierlg5hwlfvrrqdzdjighjrqdtpsakplhy/40.png" width="400"/>
 
 # Coining Reason: A Roadmap
 
