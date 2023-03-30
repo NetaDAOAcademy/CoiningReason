@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://cbjolomkva.cloudimg.io/nftstorage.link/ipfs/bafybeif3r7ixj6miv2zbvhgzierlg5hwlfvrrqdzdjighjrqdtpsakplhy/40.png" width="400"/>
-
+</p>
   
 # Coining Reason: A Roadmap
-</p>
+
 
 > The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.... I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.... [S]ooner or later, it is ideas, not vested interests, which are dangerous for good or evil. <br>
 > –John Maynard Keynes
