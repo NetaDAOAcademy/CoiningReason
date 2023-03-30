@@ -449,7 +449,7 @@ Human nature believes—--we want to believe. What does money make it possible f
 
 <br>
 
-An ongoing overflow of texts considered for inclusion in other Units but not selected. These can be added to any Unit for further discussion of particular themes or ideas or addressed on their own.
+An ongoing overflow of texts considered for inclusion in other Units but not selected. These can be added to any Unit for further discussion of particular themes and ideas or addressed on their own.
 
 <details markdown="1">
 
