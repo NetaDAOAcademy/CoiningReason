@@ -5,17 +5,17 @@
 # Coining Reason: A Roadmap
 
 
-> The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.... I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.<br>
-> –John Maynard Keynes
+> The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist. <br>
+> —John Maynard Keynes
 >
 > Disciplinary boundaries allow counterevidence to belong to someone else's story. Reasonable enough. But such arguments are a way of avoiding the awkward truth that if certain constellations of facts are able to enter scholarly consciousness deeply enough, they threaten not only the venerable narratives, but also the entrenched academic disciplines that (re)produce them. <br>
-> –Susan Buck-Morss
+> —Susan Buck-Morss
 >
 > It is the framework which changes with each new technology and not just the picture within the frame. <br>
 > —Marshall McLuhan
 >
 > Think before you speak. Read before you think. This will give you something to think about that you didn’t make up yourself. <br>
-> -Fran Lebowitz
+> —Fran Lebowitz
 
 ## Summary
 
