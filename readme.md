@@ -88,7 +88,7 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 * ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
 
-**Session 8. Social Money**
+**Session 8. Digital Commons**
 
 * Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
 
@@ -100,23 +100,23 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 
 
-Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will explore histories and theories of the "money" concept, including . Human nature's surplus of virtuality, explored in Unit I, will be put into dialogue with the thorny economic problem of surplus value.
+Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
 <details markdown="1">
 
 <summary> Readings </summary>
 
-**Session 1. Currency vs Money**
+**Session 1. Hard and Virtual Money**
 
 * Gaspar Feliu, "Money and Currency," from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
   
 * Edward Castranova, "Weirdly Normal: Virtual Economies and Virtual Money," from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
-**Session 2. Theories of Money**
+**Session 2. Theories of Money: Commodity, Credit, Chartal**
 
 * Mark Peacock, "Part 1: Theories," from _Introducing Money_
 
-**Session 3. Fiat**
+**Session 3. Fiat Technology**
 
 * John Kenneth Galbraith, "Of Paper," "An Instrument of Revolution," and "The Impeccable System" from _Money: Whence It Came, Where It Went_
 
@@ -148,7 +148,7 @@ Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an interventio
 
 
 
-A monetary system, or system of exchange, underlies and implies possibilities for politics. We will confront the provocations, complications, and alterations incited by cryptocurrencies for the thinking of democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
+A monetary system, or system of exchange, underlies and implies possibilities for politics. We will use Web 3 as an incitement to rethink democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
 
 <details markdown="1">
 
@@ -206,7 +206,7 @@ A monetary system, or system of exchange, underlies and implies possibilities fo
 
 
 
-This Unit returns to and/or foregrounds issues raised in other Units, deepening their contours through the mediation of philosophical work on human nature, technology, individuation, and general economy.
+This Unit returns to and/or foregrounds issues raised in the other Units, deepening their contours through the mediation of philosophical work on human nature, technology, individuation, and general economy.
 
 <details markdown="1">
 
@@ -260,7 +260,7 @@ This Unit returns to and/or foregrounds issues raised in other Units, deepening 
 
 
 
-Is code law? Should it be? This Unit explores the development of contract and torts law from a historical and cultural perspective in order to begin making sense of claims to digital commonwealth or sovereignty. We will conclude with a brief examination of securities law---a subspecies of contract law---to better appreciate how these regulations may apply or be reconfigured within Web 3.
+Is code law? This Unit explores the development of contract and torts law from a historical and cultural perspective in order to think through claims of digital commonwealth or sovereignty. We will conclude with a brief examination of US securities law---a subspecies of contract law---to better appreciate how markets and regulations shape each other.
 
 <details markdown="1">
 
@@ -424,7 +424,7 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 
 
 
-Human beings believe—--and we want to believe. What does money make it possible for us to believe, and what does belief make it possible (or impossible) for us to think about money? By unpacking the Byzantine interrelations between icon, image, and economy, we will lift our gaze to the divine economy in our constitutive surplus of belief.
+Human beings believe—--and we _want_ to believe. What does money make it possible for us to believe, and what does belief make it possible (or impossible) for us to think about money? By unpacking the Byzantine interrelations between icon, image, and economy, we will lift our gaze to the divine economy in our constitutive surplus of belief.
 
 <details markdown="1">
 
