@@ -27,6 +27,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit I: The Internet
 
+Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2, Web 1, and the broader impact of telecommunications technologies more generally. We will canvas these issues by centering the question: What is a human being---or what is human nature---such that it develops these technologies? By elaborating what we seek in these technologies we will be better posed to understand what they offer.
+
 <details markdown="1">
 
 <summary> Readings </summary>
@@ -79,6 +81,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit II: Economics
 
+Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technologies as it is in monetary theory. In this unit, we will explore histories and theories of the "money" concept. Human nature's surplus of virtuality will be put into dialogue with the thorny economic problem of surplus value.
+
 <details markdown="1">
 
 <summary> Readings </summary>
@@ -123,21 +127,27 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit III: Politics
 
+A monetary system, or system of exchange, underlies and implies possibilities for politics. We will confront the provocations, complications, and alterations incited by cryptocurrencies for the thinking of democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
+
 <details markdown="1">
 
 <summary> Readings </summary>
 
-**Session 1. Sovereignty or Constitient Power?**
+**Session 1. Beyond Money**
+
+* Kevin Werbach, "More Than Money," from _Blockchain and the New Architecture of Trust_
+
+**Session 2. Sovereignty or Constitient Power?**
 
 * Antonio Negri, "Constituent Power: The Concept of a Crisis," from _Insurgencies: Constituent Power and the Modern State_
 
-**Session 2. The Paradox of Constitution**
+**Session 3. The Paradox of Constitution**
   
 * Emilios Christodoulidis, "Against Substitution: The Constitutional Thinking of Dissesnsus," from _The Paradox of Constitutionalism: Constituent Power and Constitutional Form_ (eds Martin Loughlin and Neil Walker)
 
 * Martin Loughlin, "Constitutional Democracy," from _Against Constitutionalism_
  
-**Session 3. Democracy and Decentralization**
+**Session 4. Democracy and Decentralization**
 
 * Jacques Ranciere, "Democracy, Republic, Representation," from from _Hatred of Democracy_
   
@@ -145,23 +155,19 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * _Optional:_ Jean-Luc Nancy, "Finite and Infinite Democracy," from _Democracy In What State?_ (trans. William McCuaig)  
 
-**Session 4. Labor After Fordism**
+**Session 5. Labor After Fordism**
 
 * Franco Piperno, "Technological Innovation and Sentimental Education," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
 
 * Maurizio Lazzarato, "Immaterial Labor," from _Radical Thought in Italy: A Potential Politics_ (ed Hardt and Virno)
 
-**Session 5. Exit**
+**Session 6. Exit**
 
 * Paolo Virno, "Virtuosity and Revolution: A Political Theory of Exodus," from _The Idea of World: Public Intellect and Use of Life_
 
-**Session 6. Software Politics**
+**Session 7. Software Politics**
 
 * Benjamin Bratton, "The Nomos of the Cloud," from _The Stack: On Software and Sovereignty_
-
-**Session 7. The Role of Institutions**
-
-* Kevin Werbach, "More Than Money," from _Blockchain and the New Architecture of Trust_
 
 **Session 8. Another Politics?**
 
@@ -176,6 +182,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details><br>
 
 ### Unit IV: Philosophy
+
+This Unit returns to and/or foregrounds issues raised in other Units, deepening their contours through the mediation of philosophical work on human nature, technology, and general economy.
 
 <details markdown="1">
 
@@ -193,7 +201,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Salman Sadeghi, "[In Search of Lost Time: A Note on Catherine Malabou's Reading of Cryptocurrencies](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/) from _GCAS Review_
 
-**Session 3. Transcendental Blockchain?**
+**Session 3. Transcendental Blockchain**
 
 * Nick Land, "Crypto-Current: An Introduction to Blockchain and Philosophy," from _Sum #10.2: Cryptocene,_ https://aksioma.org/pdf/sum10-2_cryptocene.pdf
 
@@ -209,7 +217,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Pierre Klossowski, "Living Currency," from _Living Currency_
 
-**Session 7. Epmires of Thinking**
+**Session 7. The Autonomy of Thought**
 
 * Kojin Karatani, "Socrates and Empire," from _Isonomia and the Origins of Philosophy_
 
@@ -227,6 +235,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit V: Law
 
+Is code law? Should it be? This Unit explores the development of contract and torts law from a historical and cultural perspective. We will conclude with a brief examination of securities law---a subspecies of contract law---to better appreciate how these regulations may be applied to crypto.
+
 <details markdown="1">
 
 <summary> Readings </summary>
@@ -243,14 +253,14 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 * Kevin Werbach, "Blockchain Governance" and "Blockchain as/and Law," from _Blockchain and the New Architecture of Trust_
 
-**Session 4. Regulating Blockchain**
-
-* William Magnusson, "The Penumbra Problem," from _Blockchain Democracy: Technology, Law, and the Rule of the Crowd_
-
-**Session 5. Crypto and/as State**
+**Session 4. Crypto and/as State**
   
 * Edward Castranova, "Wildcat Currency and the State," from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
-  
+
+**Session 5. Regulating Blockchain**
+
+* William Magnusson, "The Penumbra Problem," from _Blockchain Democracy: Technology, Law, and the Rule of the Crowd_
+ 
 **Session 6. What are Securities?**
 
 * Nicholas Georgokapoulos, "Part 1," from _The Logic of Securities Law_
@@ -266,6 +276,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details><br>
 
 ### Unit VI: Ecology
+
+Much has been made about the ecological impact of cryptocurrency mining. Our objective is not to decide on this impact, but to open the question of what "ecological thinking" cryptocurrency makes newly possible and practicable. Surplus value returns here as surplus enjoyment and surplus energy.
 
 <details markdown="1">
 
@@ -290,6 +302,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 </details><br>
 
 ### Unit VII: Business
+
+DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO? For that matter, what is a business or corporation? By examining the history of coordinating and organizing human action at scale, we will come to terms with the DAO concept and its radical potential for a digital age.
 
 <details markdown="1">
 
@@ -333,6 +347,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit VIII: Art
 
+Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoption. This Unit contextualizes "collectability" as an artistic and consumer desire, while also challenging us to understand blockchains as works of performance art in their own right.
+
 <details markdown="1">
 
 <summary> Readings </summary>
@@ -375,6 +391,8 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit IX: Religion
 
+Human nature believes—--we want to believe. What does money make it possible for us to believe, and what do our beliefs make it possible to think about money?
+
 <details markdown="1">
 
 <summary> Readings </summary>
@@ -409,7 +427,9 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 </details><br>
 
-### Unit X: Miscellany: Overflow
+### Unit X: Miscellany
+
+An ongoing overflow of texts considered for inclusion in other Units but not selected. These can be added to any Unit for further discussion of particular themes or ideas or addressed on their own.
 
 <details markdown="1">
 
