@@ -1,5 +1,7 @@
+<p align="center">
 <img src="https://cbjolomkva.cloudimg.io/nftstorage.link/ipfs/bafybeif3r7ixj6miv2zbvhgzierlg5hwlfvrrqdzdjighjrqdtpsakplhy/40.png" width="400"/>
-
+</p>
+  
 # Coining Reason: A Roadmap
 
 > It is the framework which changes with each new technology and not just the picture within the frame. <br>
