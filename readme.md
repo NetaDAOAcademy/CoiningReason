@@ -1,8 +1,15 @@
 <p align="center">
 <img src="https://cbjolomkva.cloudimg.io/nftstorage.link/ipfs/bafybeif3r7ixj6miv2zbvhgzierlg5hwlfvrrqdzdjighjrqdtpsakplhy/40.png" width="400"/>
-</p>
+
   
 # Coining Reason: A Roadmap
+</p>
+
+> The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.... I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.... [S]ooner or later, it is ideas, not vested interests, which are dangerous for good or evil. <br>
+> –John Maynard Keynes
+
+> Disciplinary boundaries allow counterevidence to belong to someone else's story. Reasonable enough. But such arguments are a way of avoiding the awkward truth that if certain constellations of facts are able to enter scholarly consciousness deeply enough, they threaten not only the venerable narratives, but also the entrenched academic disciplines that (re)produce them. <br>
+> –Susan Buck-Morss
 
 > It is the framework which changes with each new technology and not just the picture within the frame. <br>
 > —Marshall McLuhan
@@ -33,7 +40,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 
 
-Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2, Web 1, and the broader impact of telecommunications technologies more generally. We will canvas these issues by centering the question: What is a human being---or what is human nature---such that it develops these technologies? By elaborating what we seek in these technologies we will be better posed to understand what they offer.
+Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2 and Web 1 and the broader impact of telecommunications technologies. We will canvas these issues by centering a single question: What is a human being---or what is human nature---such that it develops these technologies of distance and propinquity, acquires prostheses of talk and touch? By elaborating what we seek in these tele-technologies we will be better poised to evaluate what they offer.
 
 <details markdown="1">
 
@@ -89,7 +96,7 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 
 
-Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technologies as it is in monetary theory. In this unit, we will explore histories and theories of the "money" concept. Human nature's surplus of virtuality will be put into dialogue with the thorny economic problem of surplus value.
+Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this unit, we will explore histories and theories of the "money" concept, as well as its . Human nature's surplus of virtuality, explored in Unit I, will be put into dialogue with the thorny economic problem of surplus value.
 
 <details markdown="1">
 
@@ -147,7 +154,7 @@ A monetary system, or system of exchange, underlies and implies possibilities fo
 
 * Kevin Werbach, "More Than Money," from _Blockchain and the New Architecture of Trust_
 
-**Session 2. Sovereignty or Constitient Power?**
+**Session 2. Sovereignty or Constituent Power?**
 
 * Antonio Negri, "Constituent Power: The Concept of a Crisis," from _Insurgencies: Constituent Power and the Modern State_
 
