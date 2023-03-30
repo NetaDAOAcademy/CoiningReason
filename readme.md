@@ -14,28 +14,28 @@
 > It is the framework which changes with each new technology and not just the picture within the frame. <br>
 > —Marshall McLuhan
 >
-> Think before you speak. Read before you think. This will give you something to think about that you didn’t make up yourself. <br>
+> Think before you speak. Read before you think. <br>
 > —Fran Lebowitz
 
 ## Summary
 
-The Coining Reason weekly discussion series explores issues related to Web 3 through a set of texts within particular subject areas. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
+The Coining Reason weekly discussion series explores ideas related to Web 3 through a set of texts within particular subject areas. The breadth of the selected subject areas, far from undisciplined indulgence, reflects an urgent necessity: financialization means practically all aspects of life are now subsumed by the rule and roil of coin, so that any single disciplinary approach is apt to miss or misrecognize those "constellations of facts" that index more potent realities. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Because of the varied depth and extensibility of these Units, Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
 
-The Schedule will be updated weekly to show the selected readings. shows the actual reading list, ultimately to be determined by the particpants' interests and temperaments.
-
-The Schedule will be udpated weekly to reflect the reading selection. Readings not published as online articles will be made available through the Neta DAO Discord server.
+The Schedule will be updated weekly to show the selected readings. Note the first session, "Session 0. Cypherpunks," has already been set. Readings not published as online articles will be made available through the Neta DAO Discord server.
 
 
 
 ## Schedule
 
-**Session 0. Cypherpunk**
+**Session 0. Cypherpunk (5 April 2023)**
 
 * Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
 
 * Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
 
 * Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
+
+
 
 
 ## Roadmap
@@ -477,3 +477,10 @@ An ongoing overflow of texts considered for inclusion in other Units but not sel
 * Gigi Roggero, "Operaismo Beyond Operaismo," from _Italian Operaismo: Genealogy, History, Method_ (trans Clara Pope)
 
 </details><br>
+
+
+## Note
+
+Coining Reason is presented for informational purposes only. Nothing contained in these or related materials should be construed as professional or financial advice.
+
+This program is organized and run by volunteers of Neta DAO. If you would like to support Neta DAO's work, please consider delegating with the Neta DAO [JUNO](https://wallet.keplr.app/chains/juno?modal=validator&chain=juno-1&validator_address=junovaloper1f2jpv5sc6ur6yurq5w0t2chphrznpy8lfvj9vs), [AKT](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1f2jpv5sc6ur6yurq5w0t2chphrznpy8l86yse9), or [JKL](https://ping.pub/jackal/staking/jklvaloper1s4rscs2jj7qydkkrsrc52rgvq38wwgrqdrcrdq) validators.
