@@ -7,20 +7,24 @@
 
 > The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.... I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.<br>
 > –John Maynard Keynes
-
+>
 > Disciplinary boundaries allow counterevidence to belong to someone else's story. Reasonable enough. But such arguments are a way of avoiding the awkward truth that if certain constellations of facts are able to enter scholarly consciousness deeply enough, they threaten not only the venerable narratives, but also the entrenched academic disciplines that (re)produce them. <br>
 > –Susan Buck-Morss
-
+>
 > It is the framework which changes with each new technology and not just the picture within the frame. <br>
 > —Marshall McLuhan
+>
+> Think before you speak. Read before you think. This will give you something to think about that you didn’t make up yourself. <br>
+> -Fran Lebowitz
 
 ## Summary
 
-The Coining Reason discussion series focuses each week on blockchain issues through a text or set of texts related to a particular subject area. Below is a rough roadmap of subject areas ("Units"), as well as potential reading lists for each. 
+The Coining Reason weekly discussion series explores issues related to Web 3 through a set of texts within particular subject areas. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
 
-The first session, "Cypherpunk," has readings set and avaialable at the links below. Future sessions' readings will be made available through the Neta DAO Discord server.
+The Schedule will be updated weekly to show the selected readings. shows the actual reading list, ultimately to be determined by the particpants' interests and temperaments.
 
-Coining Reason's participants will ultimately determine the pace, scale, and direction of these discussions and can modify or depart from this roadmap, which is intended only to indicate where discussion could go.
+The Schedule will be udpated weekly to reflect the reading selection. Readings not published as online articles will be made available through the Neta DAO Discord server.
+
 
 
 ## Schedule
@@ -96,7 +100,7 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 
 
-Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this unit, we will explore histories and theories of the "money" concept, as well as its . Human nature's surplus of virtuality, explored in Unit I, will be put into dialogue with the thorny economic problem of surplus value.
+Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will explore histories and theories of the "money" concept, including . Human nature's surplus of virtuality, explored in Unit I, will be put into dialogue with the thorny economic problem of surplus value.
 
 <details markdown="1">
 
@@ -202,7 +206,7 @@ A monetary system, or system of exchange, underlies and implies possibilities fo
 
 
 
-This Unit returns to and/or foregrounds issues raised in other Units, deepening their contours through the mediation of philosophical work on human nature, technology, and general economy.
+This Unit returns to and/or foregrounds issues raised in other Units, deepening their contours through the mediation of philosophical work on human nature, technology, individuation, and general economy.
 
 <details markdown="1">
 
@@ -256,7 +260,7 @@ This Unit returns to and/or foregrounds issues raised in other Units, deepening 
 
 
 
-Is code law? Should it be? This Unit explores the development of contract and torts law from a historical and cultural perspective. We will conclude with a brief examination of securities law---a subspecies of contract law---to better appreciate how these regulations may be applied to crypto.
+Is code law? Should it be? This Unit explores the development of contract and torts law from a historical and cultural perspective in order to begin making sense of claims to digital commonwealth or sovereignty. We will conclude with a brief examination of securities law---a subspecies of contract law---to better appreciate how these regulations may apply or be reconfigured within Web 3.
 
 <details markdown="1">
 
