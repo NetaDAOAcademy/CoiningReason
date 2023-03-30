@@ -374,7 +374,7 @@ DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO
 
 
 
-Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoption. This Unit contextualizes "collectability" as an artistic and consumer desire, while also challenging us to understand blockchains as works of performance art in their own right.
+Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoption. This Unit contextualizes "collectability" as an artistic and consumer desire, while also challenging us to understand blockchains as works of art in their own right, using concepts of performativity, exhibition, and publicity.
 
 <details markdown="1">
 
@@ -420,7 +420,7 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 
 
 
-Human nature believes—--we want to believe. What does money make it possible for us to believe, and what do our beliefs make it possible to think about money?
+Human beings believe—--and we want to believe. What does money make it possible for us to believe, and what does belief make it possible (or impossible) for us to think about money? By unpacking the Byzantine interrelations between icon, image, and economy, we will lift our gaze to the divine economy in our constitutive surplus of belief.
 
 <details markdown="1">
 
