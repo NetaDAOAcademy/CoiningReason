@@ -27,7 +27,7 @@ Coining Reason's participants will ultimately determine the pace, scale, and dir
 
 ### Unit I: The Internet
 
-<br>
+
 
 Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2, Web 1, and the broader impact of telecommunications technologies more generally. We will canvas these issues by centering the question: What is a human being---or what is human nature---such that it develops these technologies? By elaborating what we seek in these technologies we will be better posed to understand what they offer.
 
@@ -83,7 +83,7 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 ### Unit II: Economics
 
-<br>
+
 
 Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technologies as it is in monetary theory. In this unit, we will explore histories and theories of the "money" concept. Human nature's surplus of virtuality will be put into dialogue with the thorny economic problem of surplus value.
 
@@ -131,7 +131,7 @@ Before talk of "Web 3," there was Bitcoin, and Bitcoin is as much an interventio
 
 ### Unit III: Politics
 
-<br>
+
 
 A monetary system, or system of exchange, underlies and implies possibilities for politics. We will confront the provocations, complications, and alterations incited by cryptocurrencies for the thinking of democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
 
@@ -189,7 +189,7 @@ A monetary system, or system of exchange, underlies and implies possibilities fo
 
 ### Unit IV: Philosophy
 
-<br>
+
 
 This Unit returns to and/or foregrounds issues raised in other Units, deepening their contours through the mediation of philosophical work on human nature, technology, and general economy.
 
@@ -243,7 +243,7 @@ This Unit returns to and/or foregrounds issues raised in other Units, deepening 
 
 ### Unit V: Law
 
-<br>
+
 
 Is code law? Should it be? This Unit explores the development of contract and torts law from a historical and cultural perspective. We will conclude with a brief examination of securities law---a subspecies of contract law---to better appreciate how these regulations may be applied to crypto.
 
@@ -287,7 +287,7 @@ Is code law? Should it be? This Unit explores the development of contract and to
 
 ### Unit VI: Ecology
 
-<br>
+
 
 Much has been made about the ecological impact of cryptocurrency mining. Our objective is not to decide on this impact, but to open the question of what "ecological thinking" cryptocurrency makes newly possible and practicable. Surplus value returns here as surplus enjoyment and surplus energy.
 
@@ -315,7 +315,7 @@ Much has been made about the ecological impact of cryptocurrency mining. Our obj
 
 ### Unit VII: Business
 
-<br>
+
 
 DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO? For that matter, what is a business or corporation? By examining the history of coordinating and organizing human action at scale, we will come to terms with the DAO concept and its radical potential for a digital age.
 
@@ -361,7 +361,7 @@ DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO
 
 ### Unit VIII: Art
 
-<br>
+
 
 Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoption. This Unit contextualizes "collectability" as an artistic and consumer desire, while also challenging us to understand blockchains as works of performance art in their own right.
 
@@ -407,7 +407,7 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 
 ### Unit IX: Religion
 
-<br>
+
 
 Human nature believes—--we want to believe. What does money make it possible for us to believe, and what do our beliefs make it possible to think about money?
 
@@ -447,7 +447,7 @@ Human nature believes—--we want to believe. What does money make it possible f
 
 ### Unit X: Miscellany
 
-<br>
+
 
 An ongoing overflow of texts considered for inclusion in other Units but not selected. These can be added to any Unit for further discussion of particular themes and ideas or addressed on their own.
 
