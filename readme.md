@@ -19,7 +19,7 @@
 
 The Coining Reason weekly discussion series explores ideas related to Web 3 through a set of texts within particular subject areas. The breadth of the selected subject areas, far from undisciplined indulgence, reflects an urgent necessity: financialization means practically all aspects of life are now subsumed by the rule and roil of coin, so that any single disciplinary approach is apt to miss or misrecognize those "constellations of facts" that index more potent realities. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Because of the varied depth and extensibility of these Units, Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
 
-The Schedule will be updated weekly to show the selected readings. Note the first session, "Session 0. Cypherpunks," has already been set. Readings not published as online articles will be made available through [the Neta DAO Discord server](https://discord.com/invite/gvjC86WXC2).
+The Schedule will be updated weekly to show the selected readings. Note the first session, "Session 0. Cypherpunks," has already been set. Readings not published online will be made available on the [Neta DAO Discord](https://discord.com/invite/gvjC86WXC2).
 
 
 
