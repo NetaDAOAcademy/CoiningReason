@@ -13,9 +13,7 @@
 >
 > It is the framework which changes with each new technology and not just the picture within the frame. <br>
 > —Marshall McLuhan
->
-> Think before you speak. Read before you think. <br>
-> —Fran Lebowitz
+
 
 ## Summary
 
