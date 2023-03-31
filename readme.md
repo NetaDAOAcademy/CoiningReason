@@ -456,6 +456,10 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 * Richard Boothby, "Other Paths, Other Gods," from _Embracing the Void: Rethinking the Origin of the Sacred_
 
+**Session 8. The Meaning of Life**
+
+* Jacob Needleman, "The Indefinable Something that Enters into Everything," from _Money and the Meaning of Life_
+
 </details><br>
 
 ### Unit X: Miscellany
