@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/assets/img/CNTitle.png" width="400"/>
+<img id="CNTitle" src="/assets/img/CNTitle.png" width="400"/>
 </p>
   
 # Coining Reason: A Roadmap
