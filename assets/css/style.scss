@@ -2,6 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+body {
+  background-color: black;
+  color: white;
+}
+
 h3 {
   margin-bottom: 0;
 }
