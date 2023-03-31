@@ -146,7 +146,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 
 
-A monetary system, or system of exchange, underlies and implies possibilities for politics. We will use Web 3 as an incitement to rethink democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
+A monetary system, or system of exchange, underlies and implies possibilities for politics. This Unit will use Web 3 as an incitement to rethink democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
 
 <details markdown="1">
 
@@ -218,13 +218,13 @@ This Unit returns to and/or foregrounds issues raised in the other Units, deepen
   
 **Session 2. Crypto-Anarchism**
 
-* Catherine Malabou, "[Cryptocurrencies: Anarchist Turn or Strengthening of Surveillance Capitalism? Bitcoin to Libra](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/)" from _Australian Humanities Review_
+* Catherine Malabou, "[Cryptocurrencies: Anarchist Turn or Strengthening of Surveillance Capitalism? Bitcoin to Libra](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/)," from _Australian Humanities Review_
 
-* Salman Sadeghi, "[In Search of Lost Time: A Note on Catherine Malabou's Reading of Cryptocurrencies](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/) from _GCAS Review_
+* Salman Sadeghi, "[In Search of Lost Time: A Note on Catherine Malabou's Reading of Cryptocurrencies](http://australianhumanitiesreview.org/2020/05/31/cryptocurrencies-anarchist-turn-or-strengthening-of-surveillance-capitalism-from-bitcoin-to-libra/)," from _GCAS Review_
 
 **Session 3. Transcendental Blockchain**
 
-* Nick Land, "Crypto-Current: An Introduction to Blockchain and Philosophy," from _Sum #10.2: Cryptocene,_ https://aksioma.org/pdf/sum10-2_cryptocene.pdf
+* Nick Land, "[Crypto-Current: An Introduction to Blockchain and Philosophy](https://aksioma.org/pdf/sum10-2_cryptocene.pdf)," from _Sum #10.2: Cryptocene_
 
 **Session 4. Finance and Philosophy**
 
