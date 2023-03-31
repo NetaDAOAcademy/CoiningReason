@@ -428,13 +428,13 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 <summary> Readings </summary>
 
-**Session 1. Divina Moneta**
-
-* Lucia Travaini, "Sacra Moneta: Mints and divinity: Purity, miracles, and power," from _Divina Moneta: Coins in Religion and Ritual_ (ed Nanouschka Myrberg Burström, et al)
-
-**Session 2. Ancient Economy**
+**Session 1. Ancient Economy**
 
 * M I Finley, "The Ancients and Their Economy" and "The State and the Economy," from _The Ancient Economy_
+
+**Session 2. _Divina Moneta_**
+
+* Lucia Travaini, "Sacra Moneta: Mints and divinity: Purity, miracles, and power," from _Divina Moneta: Coins in Religion and Ritual_ (ed Nanouschka Myrberg Burström, et al)
 
 **Session 3. Image, Icon, Economy**
 
