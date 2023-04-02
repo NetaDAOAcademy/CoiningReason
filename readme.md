@@ -444,6 +444,10 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 * Luciana Travaini, "Coins and Identity: From Mint to Paradise," from Money and Coinage in the Middle Ages (ed Rory Naismith)
 
+**Session 5. Divine Economy**
+
+* Giorgio Agamben, "The Mystery of the Economy," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_
+
 **Session 5. Sacralization**
 
 * Devin Singh, "The Coin of God," from _Divine Currency: The Theological Power of Money in the West_
