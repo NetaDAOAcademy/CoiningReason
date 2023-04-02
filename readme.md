@@ -448,19 +448,19 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 * Giorgio Agamben, "The Mystery of the Economy," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_
 
-**Session 5. Sacralization**
+**Session 6. Sacralization**
 
 * Devin Singh, "The Coin of God," from _Divine Currency: The Theological Power of Money in the West_
 
-**Session 6. Reformation**
+**Session 7. Reformation**
 
 * Frank Ruda, "Protestant Fatalism: Predestination as Emancipation," from Abolishing Freedom: A Plea for a Contemporary Use of Fatalism
 
-**Session 7. Postmodern (In)credulity**
+**Session 8. Postmodern (In)credulity**
 
 * Richard Boothby, "Other Paths, Other Gods," from _Embracing the Void: Rethinking the Origin of the Sacred_
 
-**Session 8. The Meaning of Life**
+**Session 9. The Meaning of Life**
 
 * Jacob Needleman, "The Indefinable Something that Enters into Everything," from _Money and the Meaning of Life_
 
