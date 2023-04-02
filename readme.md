@@ -454,7 +454,7 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 **Session 7. Reformation**
 
-* Frank Ruda, "Protestant Fatalism: Predestination as Emancipation," from Abolishing Freedom: A Plea for a Contemporary Use of Fatalism
+* Frank Ruda, "Protestant Fatalism: Predestination as Emancipation," from _Abolishing Freedom: A Plea for a Contemporary Use of Fatalism_
 
 **Session 8. Postmodern (In)credulity**
 
