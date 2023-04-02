@@ -398,7 +398,7 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 
 **Session 4. On Collecting**
 
-* McKenzie Wark, "My Collectible Ass," from _e-flux #85,_ https://www.e-flux.com/journal/85/156418/my-collectible-ass/
+* McKenzie Wark, "[My Collectible Ass](https://www.e-flux.com/journal/85/156418/my-collectible-ass/)," from _e-flux #85_
 
 * Walter Benjamin, "Unpacking My Library," from _Illuminations_
 
@@ -408,9 +408,9 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 
 **Session 6. The Body and the Record, or What Remains**
 
-* Peggy Phelan, "The Ontology of Performance," from Unmarked: The Politics of Performance
+* Peggy Phelan, "The Ontology of Performance," from _Unmarked: The Politics of Performance_
 
-* Rebecca Schneider, "In the Meantime: Performance Remains," from Performing Remains: Art and War in Times of Theatrical Reenactment
+* Rebecca Schneider, "In the Meantime: Performance Remains," from _Performing Remains: Art and War in Times of Theatrical Reenactment_
 
 **Session 7. Blockahin and Performativity**
 
@@ -442,7 +442,7 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 **Session 4. Money for Paradise**
 
-* Luciana Travaini, "Coins and Identity: From Mint to Paradise," from Money and Coinage in the Middle Ages (ed Rory Naismith)
+* Luciana Travaini, "Coins and Identity: From Mint to Paradise," from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
 
 **Session 5. Divine Economy**
 
