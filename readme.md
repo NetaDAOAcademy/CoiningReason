@@ -118,6 +118,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * John Kenneth Galbraith, "Of Paper," "An Instrument of Revolution," and "The Impeccable System" from _Money: Whence It Came, Where It Went_
 
+* Joan Robinson, "The Keynesian Revolution," from _Economic Philosophy_
+
 **Session 4. Surplus Value**
 
 * Karl Marx, "Theories of Surplus Value," from _Grundrisse: Foundations of the Critique of Political Economy_
