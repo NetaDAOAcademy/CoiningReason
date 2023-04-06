@@ -50,7 +50,7 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 **Session 1. Tele-History**
 
-* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_
+* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ [Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/)
 
 **Session 2. Web 1.0**
 
