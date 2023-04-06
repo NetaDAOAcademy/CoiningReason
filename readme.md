@@ -34,6 +34,11 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 * Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
 
 
+**Session 1. Tele-History**
+
+* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
+
+
 
 
 ## Roadmap
