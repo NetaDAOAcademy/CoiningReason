@@ -489,6 +489,8 @@ An ongoing overflow of texts considered for inclusion in other Units but not sel
 
 * Gigi Roggero, "Operaismo Beyond Operaismo," from _Italian Operaismo: Genealogy, History, Method_ (trans Clara Pope)
 
+* Mary Jacobus, "[Cloud Studies: The Visible Invisible](https://www.enl.auth.gr/gramma/gramma06/jacobus.pdf)," from _Gramma: A Journal of Theory and Criticism,_ vol 14
+
 </details><br>
 
 
