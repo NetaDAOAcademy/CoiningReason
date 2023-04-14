@@ -38,7 +38,9 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
 
+**Session 2. Web 1.0**
 
+* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
 
 
 ## Roadmap
