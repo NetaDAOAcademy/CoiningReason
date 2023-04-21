@@ -25,10 +25,6 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 ## Schedule
 
-<details markdown="1">
-  
-  <summary>Previous Sessions</summary>
-
 **Session 0. Cypherpunk (5 April 2023)**
 
 * Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
@@ -45,8 +41,6 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 **Session 2. Web 1.0**
 
 * Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
-
-  </details>
   
 **Session 3. Freedom and Control Between Web 1 and Web 2**
 
