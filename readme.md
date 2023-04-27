@@ -46,6 +46,14 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
 
+**Session 4. The World Brain**
+
+* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
+  
+* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
+
+
+
 ## Roadmap
 
 ### Unit I: The Internet
