@@ -33,6 +33,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
 
+
 ### Unit I: The Internet
 
 
@@ -56,7 +57,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 **Session 5. Psychoanalyzing Cyberspace**
 
-* André Nusselder, "The Question Concerning Technology and Desire" and The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
+* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
 
 
 ## Roadmap
