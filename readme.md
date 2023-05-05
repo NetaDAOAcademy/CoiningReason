@@ -56,7 +56,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 **Session 5. Psychoanalyzing the Internet**
 
-* André Nusselder, "The Question Concerning Technology and Desire" and The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here)](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
+* André Nusselder, "The Question Concerning Technology and Desire" and The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
 
 
 ## Roadmap
