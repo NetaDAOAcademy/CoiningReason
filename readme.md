@@ -33,6 +33,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
 
+<br>
 
 ### Unit I: The Internet
 
