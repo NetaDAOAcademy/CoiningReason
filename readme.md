@@ -33,6 +33,8 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
 
+### Unit I: The Internet
+
 
 **Session 1. Tele-History**
 
@@ -52,12 +54,14 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
   
 * Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
 
+**Session 5. Psychoanalyzing the Internet**
+
+* André Nusselder, "The Question Concerning Technology and Desire" and The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here)](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
 
 
 ## Roadmap
 
 ### Unit I: The Internet
-
 
 
 Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2 and Web 1 and the broader impact of telecommunications technologies. We will canvas these issues by centering a single question: What is a human being---or what is human nature---such that it develops these technologies of distance and propinquity, acquires prostheses of talk and touch? By elaborating what we seek in these tele-technologies we will be better poised to evaluate what they offer.
