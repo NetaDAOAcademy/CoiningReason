@@ -54,7 +54,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
   
 * Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
 
-**Session 5. Psychoanalyzing the Internet**
+**Session 5. Psychoanalyzing Cyberspace**
 
 * André Nusselder, "The Question Concerning Technology and Desire" and The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
 
