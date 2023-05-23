@@ -60,6 +60,11 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
 
+**Session 6. Digital Bodies**
+
+* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
+
+* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
 
 ## Roadmap
 
