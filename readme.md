@@ -66,6 +66,16 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
 
+**Session 7. Web 3.0**
+
+* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
+
+* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
+
+* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
+
+* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
+
 ## Roadmap
 
 ### Unit I: The Internet
