@@ -76,6 +76,14 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 * ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
 
+**Session 8. Digital Commons**
+
+* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
+
+* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
+
+* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
+
 ## Roadmap
 
 ### Unit I: The Internet
