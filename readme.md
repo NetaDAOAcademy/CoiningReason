@@ -25,6 +25,10 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 ## Schedule
 
+<details markdown="1">
+
+<summary> Past Sessions </summary>
+
 **Session 0. Cypherpunk (5 April 2023)**
 
 * Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
@@ -83,6 +87,80 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 * Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
 
 * Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
+
+</details>
+
+### Unit 2: Money
+
+**Session 9. Economy**
+
+Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_
+
+**Session 10. Byzantine: Icon and Economy**
+
+Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_
+
+Optional: Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_
+
+**Session 11. WTF Happened in 1579?**
+
+Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
+
+Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_
+
+**Session 12. Money**
+
+Mark Peacock, “Part 1: Theories,” from _Introducing Money_
+
+Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
+
+**Session 13. On Fiat** 
+
+John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_
+
+Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_
+
+**Session 14. Political Economy**
+
+Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
+
+Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_
+
+Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
+
+**Session 15. Chartalism**
+
+Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
+
+**Session 16. Financialization**
+
+ Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_
+
+**Session 17. The Technology of Trust**
+
+Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
+
+Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
+
+**Session 18. Money: Austrian and Informational**
+
+Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
+
+George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
+
+**Session 19. Money in Crisis**
+ 
+Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
+
+Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
+
+**Session 20. Money: The Negative**
+
+Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
+
+Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
+
+
 
 ## Roadmap
 
@@ -464,6 +542,16 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 **Session 7. Blockahin and Performativity**
 
 * Moritz J. Kleinaltenkamp and Shaz Ansari, "Blockchain and the Performativity of Emerging Technology Theories," from _Organizing in the Digital Age: Understanding the Dynamics of Work, Innovation, and Collective Action_
+
+* Rhea Myers, "Computers and Capital: The Rise of Digital Currency," from _Proof of Work: Blockchain Provocations, 2011-2021_
+
+**Session 8. Rhea Myers**
+
+* Rhea Myers, "Open Source Art Again, Again," "Artworks and Curation on the Blockchain," "Tokenization and Its Discontents," and "Being and Timestamp" from _Proof of Work: Blockchain Provocations, 2011-2021_
+
+**Session 9. Digital Art**
+
+Omar Kholeif, "1989: The Year That Changed the World" and "The Shape of the Future," from _Internet_Art: From the Birth of the Web to the Rise of NFTs_
 
 </details><br>
 
