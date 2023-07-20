@@ -29,7 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 **Session 2.0–Re-Orientation (26 July 2023)**
 
-Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+_Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
 
 <details markdown="1">
 
