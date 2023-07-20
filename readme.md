@@ -2,7 +2,7 @@
 <img id="CNTitle" src="/assets/img/CNTitle.png" />
 </p>
   
-# Coining Reason: A Roadmap
+# Coining Reason: A Discussion Series
 
 
 > The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.... I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas. <br>
@@ -15,7 +15,7 @@
 > —Marshall McLuhan
 
 
-## Summary
+## About
 
 The Coining Reason weekly discussion series explores ideas related to Web 3 through a set of texts within particular subject areas. The breadth of the selected subject areas, far from undisciplined indulgence, reflects an urgent necessity: financialization means practically all aspects of life are now subsumed by the rule and roil of coin, so that any single disciplinary approach is apt to miss or misrecognize those "constellations of facts" that index more potent realities. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Because of the varied depth and extensibility of these Units, Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
 
@@ -23,78 +23,17 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 
 
-## Schedule
-
-<details markdown="1">
-
-<summary> Past Sessions </summary>
-
-**Session 0. Cypherpunk (5 April 2023)**
-
-* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
-
-* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
-
-* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
-
-<br>
-
-### Unit I: The Internet
-
-
-**Session 1. Tele-History**
-
-* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
-
-**Session 2. Web 1.0**
-
-* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
-  
-**Session 3. Freedom and Control Between Web 1 and Web 2**
-
-* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
-
-**Session 4. The World Brain**
-
-* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
-  
-* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
-
-**Session 5. Psychoanalyzing Cyberspace**
-
-* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
-
-**Session 6. Digital Bodies**
-
-* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
-
-* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
-
-**Session 7. Web 3.0**
-
-* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
-
-* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
-
-* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
-
-* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
-
-**Session 8. Digital Commons**
-
-* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
-
-* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
-
-* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
-
-</details>
+## Current Schedule
 
 ### Unit 2: Money
 
-**Session 2.0–Introduction**
+**Session 2.0–Re-Orientation (26 July 2023)**
 
 Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+
+<details markdown="1">
+
+<summary> Planned Sessions </summary>
 
 **Session 2.1–Economy**
 
@@ -164,9 +103,75 @@ Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of En
 
 Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
 
+</details>
+
+<details markdown="1">
+
+<summary> Past Sessions </summary>
+
+**Session 0. Cypherpunk (5 April 2023)**
+
+* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
+
+* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
+
+* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
+
+<br>
+
+### Unit I: The Internet
 
 
-## Roadmap
+**Session 1. Tele-History**
+
+* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
+
+**Session 2. Web 1.0**
+
+* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
+  
+**Session 3. Freedom and Control Between Web 1 and Web 2**
+
+* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
+
+**Session 4. The World Brain**
+
+* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
+  
+* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
+
+**Session 5. Psychoanalyzing Cyberspace**
+
+* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
+
+**Session 6. Digital Bodies**
+
+* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
+
+* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
+
+**Session 7. Web 3.0**
+
+* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
+
+* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
+
+* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
+
+* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
+
+**Session 8. Digital Commons**
+
+* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
+
+* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
+
+* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
+
+</details>
+
+
+## Original Roadmap
 
 ### Unit I: The Internet
 
