@@ -92,35 +92,39 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 ### Unit 2: Money
 
-**Session 9. Economy**
+**Session 2.0–Introduction**
+
+Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+
+**Session 2.1–Economy**
 
 Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_
 
-**Session 10. Byzantine: Icon and Economy**
+**Session 2.2–Byzantine: Icon and Economy**
 
 Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_
 
 Optional: Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_
 
-**Session 11. WTF Happened in 1579?**
+**Session 2.3–WTF Happened in 1579?**
 
 Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
 
 Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_
 
-**Session 12. Money**
+**Session 2.4–Money**
 
 Mark Peacock, “Part 1: Theories,” from _Introducing Money_
 
 Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
-**Session 13. On Fiat** 
+**Session 2.5–On Fiat** 
 
 John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_
 
 Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_
 
-**Session 14. Political Economy**
+**Session 2.6–Political Economy**
 
 Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
 
@@ -128,33 +132,33 @@ Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Block
 
 Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
 
-**Session 15. Chartalism**
+**Session 2.7–Chartalism**
 
 Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
 
-**Session 16. Financialization**
+**Session 2.8–Financialization**
 
  Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_
 
-**Session 17. The Technology of Trust**
+**Session 2.9–The Technology of Trust**
 
 Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
 
 Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
-**Session 18. Money: Austrian and Informational**
+**Session 2.10–Money: Austrian and Informational**
 
 Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
 
 George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
-**Session 19. Money in Crisis**
+**Session 2.11–Money in Crisis**
  
 Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
 
 Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
 
-**Session 20. Money: The Negative**
+**Session 2.12–Money: The Negative**
 
 Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
 
