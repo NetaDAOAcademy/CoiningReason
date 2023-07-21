@@ -27,6 +27,8 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 ### Unit 2: Money
 
+Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
+
 **Session 2.0–Re-Orientation (26 July 2023)**
 
 _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
