@@ -29,89 +29,87 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.0–Re-Orientation (26 July 2023)**
+**Session 2.1–Economy**
 
-_Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [Click Here](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
 
-**Session 2.1–Economy**
-
-Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_
-
 **Session 2.2–Byzantine: Icon and Economy**
 
-Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_
+* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_
 
-Optional: Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_
+* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_
 
 **Session 2.3–WTF Happened in 1579?**
 
-Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
+* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
 
-Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_
+* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_
 
 **Session 2.4–Money**
 
-Mark Peacock, “Part 1: Theories,” from _Introducing Money_
+* Mark Peacock, “Part 1: Theories,” from _Introducing Money_
 
-Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
+* Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
 **Session 2.5–On Fiat** 
 
-John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_
+* John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_
 
-Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_
+* Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_
 
 **Session 2.6–Political Economy**
 
-Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
+* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
 
-Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_
+* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_
 
-Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
+* Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
 
 **Session 2.7–Chartalism**
 
-Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
+* Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
 
 **Session 2.8–Financialization**
 
- Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_
+ * Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_
 
 **Session 2.9–The Technology of Trust**
 
-Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
+* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
 
-Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
+* Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 2.10–Money: Austrian and Informational**
 
-Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
+* Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
 
-George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
+* George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
 **Session 2.11–Money in Crisis**
  
-Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
+* Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
 
-Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
+* Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
 
 **Session 2.12–Money: The Negative**
 
-Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
+* Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
 
-Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
+* Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
 
 </details>
 
+## Past Sessions
+
 <details markdown="1">
 
-<summary> Past Sessions </summary>
+<summary> Unit I: The Internet </summary>
 
-**Session 0. Cypherpunk (5 April 2023)**
+**Session 1.0–Cypherpunk (5 April 2023)**
 
 * Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
 
@@ -119,40 +117,50 @@ Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Criti
 
 * Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
 
-<br>
+[Listen to Sesssion 1.0](https://twitter.com/CoiningReason/status/1643765966025682945)
 
-### Unit I: The Internet
-
-
-**Session 1. Tele-History**
+**Session 1.1–Tele-History (12 April 2023)**
 
 * Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
 
-**Session 2. Web 1.0**
+[Listen to Session 1.1](https://twitter.com/CoiningReason/status/1646302811292852224)
+
+**Session 1.2–Web 1.0 (19 April 2023)**
 
 * Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
+
+[Listen to Session 1.2](https://twitter.com/CoiningReason/status/1648839464796446720)
   
-**Session 3. Freedom and Control Between Web 1 and Web 2**
+**Session 1.3–Freedom and Control Between Web 1 and Web 2 (26 April 2023)**
 
 * Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
 
-**Session 4. The World Brain**
+Note: unrecorded
+
+**Session 1.4–The World Brain (3 May 2023)**
 
 * Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
   
 * Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
 
-**Session 5. Psychoanalyzing Cyberspace**
+[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)
+[Listen to Session 1.4, part 3](https://twitter.com/CoiningReason/status/1653914980763197440)
+
+**Session 1.5–Psychoanalyzing Cyberspace (10 May 2023)**
 
 * André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
 
-**Session 6. Digital Bodies**
+[Listen to Session 1.5](https://twitter.com/CoiningReason/status/1658985960326012931?s=20)
+
+**Session 1.6–Digital Bodies (24 May 2023)**
 
 * Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
 
 * Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
 
-**Session 7. Web 3.0**
+[Liaten to Session 1.6](https://twitter.com/CoiningReason/status/1661523165397254145)
+
+**Session 1.7–Web 3.0**
 
 * Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
 
@@ -162,13 +170,29 @@ Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Criti
 
 * ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
 
-**Session 8. Digital Commons**
+[Listen to Session 1.7](https://twitter.com/CoiningReason/status/1664059235309633538)
+
+**Session 1.8–Digital Commons**
 
 * Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
 
 * Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
 
 * Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
+
+[Listen to Session 1.8](https://twitter.com/CoiningReason/status/1666596944846659584)
+
+</details>
+
+<details markdown="1">
+
+<summary> Unit 2: Money </summary>
+
+**Session 2.0–Re-Orientation (26 July 2023)**
+
+* _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+
+[Listen to Session 2.0](https://twitter.com/CoiningReason/status/1684413715070824449)
 
 </details>
 
