@@ -29,7 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.1–Economy**
+**Session 2.1–Economy (2 August 2023)**
 
 * Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [Click Here](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
 
@@ -102,6 +102,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
 
 </details>
+
+<br>
 
 ## Past Sessions
 
