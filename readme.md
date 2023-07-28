@@ -109,6 +109,18 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 <details markdown="1">
 
+<summary> Unit 2: Money </summary>
+
+**Session 2.0–Re-Orientation (26 July 2023)**
+
+* _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+
+[Listen to Session 2.0](https://twitter.com/CoiningReason/status/1684413715070824449)
+
+</details>
+
+<details markdown="1">
+
 <summary> Unit I: The Internet </summary>
 
 **Session 1.0–Cypherpunk (5 April 2023)**
@@ -145,8 +157,8 @@ Note: unrecorded
   
 * Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
 
-[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)
-[Listen to Session 1.4, part 3](https://twitter.com/CoiningReason/status/1653914980763197440)
+[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)<br>
+[Listen to Session 1.4, part 2](https://twitter.com/CoiningReason/status/1653914980763197440)
 
 **Session 1.5–Psychoanalyzing Cyberspace (10 May 2023)**
 
@@ -183,18 +195,6 @@ Note: unrecorded
 * Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
 
 [Listen to Session 1.8](https://twitter.com/CoiningReason/status/1666596944846659584)
-
-</details>
-
-<details markdown="1">
-
-<summary> Unit 2: Money </summary>
-
-**Session 2.0–Re-Orientation (26 July 2023)**
-
-* _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
-
-[Listen to Session 2.0](https://twitter.com/CoiningReason/status/1684413715070824449)
 
 </details>
 
