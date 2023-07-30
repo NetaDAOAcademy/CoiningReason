@@ -121,7 +121,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 <details markdown="1">
 
-<summary> Unit I: The Internet </summary>
+<summary> Unit 1: The Internet </summary>
 
 **Session 1.0–Cypherpunk (5 April 2023)**
 
@@ -202,14 +202,13 @@ Note: unrecorded
 
 ## Original Roadmap
 
-### Unit I: The Internet
-
-
-Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2 and Web 1 and the broader impact of telecommunications technologies. We will canvas these issues by centering a single question: What is a human being---or what is human nature---such that it develops these technologies of distance and propinquity, acquires prostheses of talk and touch? By elaborating what we seek in these tele-technologies we will be better poised to evaluate what they offer.
 
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit I: The Internet</summary>
+
+
+Before thinking about Web 3, it may be helpful to come to terms with the histories of Web 2 and Web 1 and the broader impact of telecommunications technologies. We will canvas these issues by centering a single question: What is a human being---or what is human nature---such that it develops these technologies of distance and propinquity, acquires prostheses of talk and touch? By elaborating what we seek in these tele-technologies we will be better poised to evaluate what they offer.
 
 **Session 1. Tele-History**
 
@@ -257,15 +256,13 @@ Before thinking about Web 3, it may be helpful to come to terms with the histori
 
 </details><br>
 
-### Unit II: Economics
+<details markdown="1">
+
+<summary> Unit II: Economics </summary>
 
 
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
-
-<details markdown="1">
-
-<summary> Readings </summary>
 
 **Session 1. Hard and Virtual Money**
 
@@ -307,15 +304,11 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 </details><br>
 
-### Unit III: Politics
-
-
-
-A monetary system, or system of exchange, underlies and implies possibilities for politics. This Unit will use Web 3 as an incitement to rethink democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit III: Politics </summary>
+
+A monetary system, or system of exchange, underlies and implies possibilities for politics. This Unit will use Web 3 as an incitement to rethink democracy, sovereignty, constitutionalism, labor, autonomy, and "the political" in general.
 
 **Session 1. Beyond Money**
 
@@ -365,15 +358,11 @@ A monetary system, or system of exchange, underlies and implies possibilities fo
 
 </details><br>
 
-### Unit IV: Philosophy
-
-
-
-This Unit returns to and/or foregrounds issues raised in the other Units, deepening their contours through the mediation of philosophical work on human nature, technology, individuation, and general economy.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit IV: Philosophy </summary>
+
+This Unit returns to and/or foregrounds issues raised in the other Units, deepening their contours through the mediation of philosophical work on human nature, technology, individuation, and general economy.
 
 **Session 1. Talking Philosophy**
   
@@ -419,15 +408,13 @@ This Unit returns to and/or foregrounds issues raised in the other Units, deepen
   
 </details><br>
 
-### Unit V: Law
+<details markdown="1">
+
+<summary> Unit V: Law </summary> 
 
 
 
 Is code law? This Unit explores the development of contract and torts law from a historical and cultural perspective in order to think through claims of digital commonwealth or sovereignty. We will conclude with a brief examination of US securities law---a subspecies of contract law---to better appreciate how markets and regulations shape each other.
-
-<details markdown="1">
-
-<summary> Readings </summary>
 
 **Session 1. Piracy, a Philosophy**
 
@@ -463,15 +450,11 @@ Is code law? This Unit explores the development of contract and torts law from a
 
 </details><br>
 
-### Unit VI: Ecology
-
-
-
-Much has been made about the ecological impact of cryptocurrency mining. Our objective is not to decide on this impact, but to open the question of what "ecological thinking" cryptocurrency makes newly possible and practicable. Surplus value returns here as surplus enjoyment and surplus energy.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit VI: Ecology </summary>
+
+Much has been made about the ecological impact of cryptocurrency mining. Our objective is not to decide on this impact, but to open the question of what "ecological thinking" cryptocurrency makes newly possible and practicable. Surplus value returns here as surplus enjoyment and surplus energy.
 
 **Session 1. Network and Ecosystem**
 
@@ -491,15 +474,11 @@ Much has been made about the ecological impact of cryptocurrency mining. Our obj
 
 </details><br>
 
-### Unit VII: Business
-
-
-
-DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO? For that matter, what is a business or corporation? By examining the history of coordinating and organizing human action at scale, we will come to terms with the DAO concept and its radical potential for a digital age.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit VII: Business </summary>
+
+DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO? For that matter, what is a business or corporation? By examining the history of coordinating and organizing human action at scale, we will come to terms with the DAO concept and its radical potential for a digital age.
 
 **Session 1. The Company**
 
@@ -537,15 +516,11 @@ DAOs are a major structure built on top of cryptocurrencies, but what _is_ a DAO
 
 </details><br>
 
-### Unit VIII: Art
-
-
-
-Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoption. This Unit contextualizes "collectability" as an artistic and consumer desire, while also challenging us to understand blockchains as works of art in their own right, using concepts of performativity, exhibition, and publicity.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit VIII: Art </summary>
+
+Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoption. This Unit contextualizes "collectability" as an artistic and consumer desire, while also challenging us to understand blockchains as works of art in their own right, using concepts of performativity, exhibition, and publicity.
 
 **Session 1. On Galleries and Printing Presses**
 
@@ -593,15 +568,11 @@ Omar Kholeif, "1989: The Year That Changed the World" and "The Shape of the Futu
 
 </details><br>
 
-### Unit IX: Religion
-
-
-
-Human beings believe—--and we _want_ to believe. What does money make it possible for us to believe, and what does belief make it possible (or impossible) for us to think about money? By unpacking the Byzantine interrelations between icon, image, and economy, we will lift our gaze to the divine economy in our constitutive surplus of belief.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit IX: Religion </summary>
+
+Human beings believe—--and we _want_ to believe. What does money make it possible for us to believe, and what does belief make it possible (or impossible) for us to think about money? By unpacking the Byzantine interrelations between icon, image, and economy, we will lift our gaze to the divine economy in our constitutive surplus of belief.
 
 **Session 1. Ancient Economy**
 
@@ -641,15 +612,11 @@ Human beings believe—--and we _want_ to believe. What does money make it possi
 
 </details><br>
 
-### Unit X: Miscellany
-
-
-
-An ongoing overflow of texts considered for inclusion in other Units but not selected. These can be added to any Unit for further discussion of particular themes and ideas or addressed on their own.
-
 <details markdown="1">
 
-<summary> Readings </summary>
+<summary> Unit X: Miscellany </summary>
+
+An ongoing overflow of texts considered for inclusion in other Units but not selected. These can be added to any Unit for further discussion of particular themes and ideas or addressed on their own.
 
 * Isabel Millar, "The Stupidity of Intelligence," from _The Psychoanalysis of Artificial Intelligence_
 
