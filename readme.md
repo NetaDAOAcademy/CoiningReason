@@ -31,7 +31,9 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.1–Economy (2 August 2023)**
 
-* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [Click Here](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
+* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [(Click Here)](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
+
+* _Optional:_ Sigmund Freud, "The Economic Problem of Masochism," _Standard Edition of the Psychological Works of Sigmund Freud_, Vol. 19 (trans. James Strachey) [(Click Here)](https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_Masochism.pdf)
 
 <details markdown="1">
 
