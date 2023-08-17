@@ -29,21 +29,16 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.1–Economy (2 August 2023)**
+**Session 2.2–Byzantine: Icon and Economy (30 August 2023)**
 
-* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [(Click Here)](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
+* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ [Click Here](https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
 
-* _Optional:_ Sigmund Freud, "The Economic Problem of Masochism," _Standard Edition of the Complete Psychological Works of Sigmund Freud_, Vol. 19 (trans. James Strachey) [(Click Here)](https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_Masochism.pdf)
+* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [Click Here](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
+
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
-
-**Session 2.2–Byzantine: Icon and Economy**
-
-* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_
-
-* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_
 
 **Session 2.3–WTF Happened in 1579?**
 
@@ -118,6 +113,15 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
 
 [Listen to Session 2.0](https://twitter.com/CoiningReason/status/1684413715070824449)
+
+**Session 2.1–Economy (16 August 2023)**
+
+* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [(Click Here)](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
+
+* _Optional:_ Sigmund Freud, "The Economic Problem of Masochism," _Standard Edition of the Complete Psychological Works of Sigmund Freud_, Vol. 19 (trans. James Strachey) [(Click Here)](https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_Masochism.pdf)
+
+[Listen to Session 2.1](https://twitter.com/CoiningReason/status/1692061497554346489?s=20)
+
 
 </details>
 
