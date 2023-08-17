@@ -31,9 +31,9 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.2–Byzantine: Icon and Economy (30 August 2023)**
 
-* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ [Click Here](https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
+* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ ([Click Here])(https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
 
-* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [Click Here](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
+* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ ([Click Here])(https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
 
 
 <details markdown="1">
