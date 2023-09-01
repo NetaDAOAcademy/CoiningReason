@@ -31,11 +31,11 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.3–WTF Happened in 1579?**
 
-* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ [(Click Here)](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/)
+* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ ([Click Here](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/))
 
-* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) [(Click Here)](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/)
+* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) ([Click Here](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/))
 
-* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ [(Click Here)](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/) and [(Click Here)](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/)
+* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
 
 
 <details markdown="1">
