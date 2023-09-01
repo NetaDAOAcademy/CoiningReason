@@ -29,22 +29,18 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.2–Byzantine: Icon and Economy (30 August 2023)**
+**Session 2.3–WTF Happened in 1579?**
 
-* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ [(Click Here)](https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
+* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ [(Click Here)](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/)
 
-* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [(Click Here)](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
+* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) [(Click Here)](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/)
+
+* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ [(Click Here)](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/) and [(Click Here)](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/)
 
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
-
-**Session 2.3–WTF Happened in 1579?**
-
-* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
-
-* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_
 
 **Session 2.4–Money**
 
@@ -120,8 +116,16 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * _Optional:_ Sigmund Freud, "The Economic Problem of Masochism," _Standard Edition of the Complete Psychological Works of Sigmund Freud_, Vol. 19 (trans. James Strachey) [(Click Here)](https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_Masochism.pdf)
 
-[Listen to Session 2.1](https://twitter.com/CoiningReason/status/1692061497554346489?s=20)
+[Listen to Session 2.1](https://twitter.com/CoiningReason/status/1692061497554346489)
 
+
+**Session 2.2–Byzantine: Icon and Economy (30 August 2023)**
+
+* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ [(Click Here)](https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
+
+* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [(Click Here)](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
+
+[Listen to Session 2.2](https://twitter.com/CoiningReason/status/1697096725859549558)
 
 </details>
 
