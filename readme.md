@@ -29,11 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.3–WTF Happened in 1579? (6 September 2023)**
-
-* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ ([Click Here](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/))
-
-* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) ([Click Here](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/))
+**Session 2.4–WTF Happened in 1579? (6 September 2023)**
 
 * Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
 
@@ -42,19 +38,19 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 <summary> Planned Sessions </summary>
 
-**Session 2.4–Money**
+**Session 2.5–Money**
 
 * Mark Peacock, “Part 1: Theories,” from _Introducing Money_
 
 * Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
-**Session 2.5–On Fiat** 
+**Session 2.6–On Fiat** 
 
 * John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_
 
 * Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_
 
-**Session 2.6–Political Economy**
+**Session 2.7–Political Economy**
 
 * Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
 
@@ -62,33 +58,33 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
 
-**Session 2.7–Chartalism**
+**Session 2.8–Chartalism**
 
 * Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
 
-**Session 2.8–Financialization**
+**Session 2.9–Financialization**
 
  * Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_
 
-**Session 2.9–The Technology of Trust**
+**Session 2.10–The Technology of Trust**
 
 * Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
 
 * Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
-**Session 2.10–Money: Austrian and Informational**
+**Session 2.11–Money: Austrian and Informational**
 
 * Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
 
 * George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
-**Session 2.11–Money in Crisis**
+**Session 2.12–Money in Crisis**
  
 * Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
 
 * Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
 
-**Session 2.12–Money: The Negative**
+**Session 2.13–Money: The Negative**
 
 * Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
 
@@ -126,6 +122,14 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [(Click Here)](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
 
 [Listen to Session 2.2](https://twitter.com/CoiningReason/status/1697096725859549558)
+
+**Session 2.3—The Song of Money (6 September 2023)**
+
+* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ ([Click Here](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/))
+
+* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) ([Click Here](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/))
+
+[Listen to Session 2.3](https://twitter.com/CoiningReason/status/1699634141237579950?s=20)
 
 </details>
 
