@@ -29,28 +29,31 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.4–WTF Happened in 1579? (6 September 2023)**
 
-* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
+**Session 2.5—Phenomenology of Money (27 September 2023)**
 
+*  Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_ ([Click Here](https://bafkreifhum47sttprsqnr5j5pnberezlcrlefjdgmjh56dj6glhrbe7bfi.ipfs.nftstorage.link/))
+  
+*  Rudi Visker, "Is There Death After Life?" from _Studia Universitatis Babes-Bolyai -
+Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5rtkbjpxm6n5gbu.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
 
-**Session 2.5–Money**
+**Session 2.6–Money**
 
 * Mark Peacock, “Part 1: Theories,” from _Introducing Money_
 
 * Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
-**Session 2.6–On Fiat** 
+**Session 2.7–On Fiat** 
 
 * John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_
 
 * Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_
 
-**Session 2.7–Political Economy**
+**Session 2.8–Political Economy**
 
 * Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
 
@@ -58,13 +61,9 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
 
-**Session 2.8–Chartalism**
+**Session 2.9–Chartalism**
 
 * Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
-
-**Session 2.9–Financialization**
-
- * Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_
 
 **Session 2.10–The Technology of Trust**
 
@@ -130,6 +129,12 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) ([Click Here](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/))
 
 [Listen to Session 2.3](https://twitter.com/CoiningReason/status/1699634141237579950?s=20)
+
+**Session 2.4–WTF Happened in 1579? (20 September 2023)**
+
+* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
+
+[Listen to Session 2.4](https://x.com/CoiningReason/status/1704707422546276702)
 
 </details>
 
