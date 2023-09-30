@@ -30,20 +30,20 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
 
-**Session 2.5—Phenomenology of Money (27 September 2023)**
+**Session 2.6–The Ontology of Money (4 October 2023)**
 
-*  Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_ ([Click Here](https://bafkreifhum47sttprsqnr5j5pnberezlcrlefjdgmjh56dj6glhrbe7bfi.ipfs.nftstorage.link/))
+* Mark Peacock, “Part 1: Theories,” from _Introducing Money_ ([Click Here](https://bafybeib7pr7ja4q4ejuesos6svmynfmykkrnvqhuiju2egcljozpg743w4.ipfs.nftstorage.link/))
+
+* Mark Peacock, "The Ontology of Money," from _Cambridge Journal of Economics ([Click Here](https://bafkreigzdunzj2cv64icjxwpy3wqjnkcan35iok2vx5aldbzf4ca7g6yqu.ipfs.nftstorage.link/))
   
-*  Rudi Visker, "Is There Death After Life?" from _Studia Universitatis Babes-Bolyai -
+* _Carry-over from 2.5:_ Rudi Visker, "Is There Death After Life?" from _Studia Universitatis Babes-Bolyai -
 Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5rtkbjpxm6n5gbu.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
 
-**Session 2.6–Money**
 
-* Mark Peacock, “Part 1: Theories,” from _Introducing Money_
 
 * Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_
 
@@ -135,6 +135,12 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 * Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
 
 [Listen to Session 2.4](https://x.com/CoiningReason/status/1704707422546276702)
+
+**Session 2.5—Phenomenology of Money (27 September 2023)**
+
+*  Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_ ([Click Here](https://bafkreifhum47sttprsqnr5j5pnberezlcrlefjdgmjh56dj6glhrbe7bfi.ipfs.nftstorage.link/))
+
+[Listen to Session 2.5](https://x.com/CoiningReason/status/1707244287459483872?s=20)
 
 </details>
 
