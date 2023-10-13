@@ -29,29 +29,23 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.7–Money: Paper and Virtuality** 
+**Session 2.8: The Birth of Banking**
 
-* John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” and “The Impeccable System” from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreidyu7ybt7ehhwuwh6fdrsus7y2ufgnvk26qzntey7grxm7bufhcee.ipfs.nftstorage.link/) and [Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
+* Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/)
 
-* Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_ ([Click Here](https://bafkreiedtjtyl4tthhqisl4ain7zr3casdzc6azktio5dkupat42hjg6ay.ipfs.nftstorage.link/))
-
-* Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_ ([Click Here](https://bafkreied7fv32safadczvs32fmgug2itzjphstktaf46phgt6b4xbuzhai.ipfs.nftstorage.link/))
+* John Kenneth Galbraith, "The Impeccable System" from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
 
-**Session 2.8–Political Economy**
+**Session 2.9–Political Economy**
 
 * Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
 
 * Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_
 
 * Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
-
-**Session 2.9–Chartalism**
-
-* Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_
 
 **Session 2.10–The Technology of Trust**
 
@@ -141,6 +135,17 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5rtkbjpxm6n5gbu.ipfs.nftstorage.link/))
 
 [Listen to Session 2.6](https://x.com/CoiningReason/status/1709781162640498855)
+
+**Session 2.7–Money: Paper and Virtuality** 
+
+* John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreidyu7ybt7ehhwuwh6fdrsus7y2ufgnvk26qzntey7grxm7bufhcee.ipfs.nftstorage.link/)
+
+* Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_ ([Click Here](https://bafkreiedtjtyl4tthhqisl4ain7zr3casdzc6azktio5dkupat42hjg6ay.ipfs.nftstorage.link/))
+
+* Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_ ([Click Here](https://bafkreied7fv32safadczvs32fmgug2itzjphstktaf46phgt6b4xbuzhai.ipfs.nftstorage.link/))
+
+[Listen to Session 2.7](https://x.com/CoiningReason/status/1712317539768799671?s=20)
+
 
 </details>
 
