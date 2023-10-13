@@ -31,7 +31,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.8: The Birth of Banking**
 
-* Christine Desan, “Reinventing Money: The Making of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
+* Christine Desan, “Reinventing Money: The Beginning of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
 
 * John Kenneth Galbraith, "The Impeccable System" from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
 
