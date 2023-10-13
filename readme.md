@@ -29,7 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.8: The Birth of Banking**
+**Session 2.8: The Birth of Banking (18 October 2023)**
 
 * Christine Desan, “Reinventing Money: The Beginning of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
 
@@ -136,7 +136,7 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 
 [Listen to Session 2.6](https://x.com/CoiningReason/status/1709781162640498855)
 
-**Session 2.7–Money: Paper and Virtuality** 
+**Session 2.7–Money: Paper and Virtual (11 October 2023)** 
 
 * John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreidyu7ybt7ehhwuwh6fdrsus7y2ufgnvk26qzntey7grxm7bufhcee.ipfs.nftstorage.link/)
 
