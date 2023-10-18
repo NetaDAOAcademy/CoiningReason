@@ -31,41 +31,59 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.8: The Birth of Banking (18 October 2023)**
 
-* Christine Desan, “Reinventing Money: The Beginning of Bank Currency,” in _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
+* Christine Desan, “Reinventing Money: The Beginning of Bank Currency,” from _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
 
-* John Kenneth Galbraith, "The Impeccable System" from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
+* John Kenneth Galbraith, "The Impeccable System," from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
 
-**Session 2.9–Political Economy**
+**Session 2.9–Political Economy (1 November 2023)**
 
-* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
+* Karl Marx, "Reflections on Money," from _MECW_ Vol 10 ([Click Here](https://marxists.architexturez.net/archive/marx/works/1851/03/reflections.htm))
 
 * Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_
 
-* Optional: Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
+* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_
 
-**Session 2.10–The Technology of Trust**
+* _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_
 
-* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
+**Session 2.X—Negation (8 November 2023)**
 
-* Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
+* Sigmund Freud, "Negation," from _SE_ Vol XIX
 
-**Session 2.11–Money: Austrian and Informational**
+* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung," from _Ècrits_
+
+* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_
+
+* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung," from _Ècrits_
+
+**Session 2.10–Money: Austrian and Informational (15 November 2023)**
 
 * Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
 
 * George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
-**Session 2.12–Money in Crisis**
+* Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
+
+**Session 2.11–The Technology of Trust (29 November 2023)**
+
+* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_
+
+* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
+
+* Edouard Pignot, "Bringing Down the House of Goldman Sachs: Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
+
+**Session 2.12–Money in Crisis (6 December 2023)**
  
 * Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
 
+* Ole Bjerg, "The Financialization of Money," from _Making Money: The Philosophy of Crisis Capitalism_
+
 * Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
 
-**Session 2.13–Money: The Negative**
+**Session 2.13–Money: The Negative (13 December 2023)**
 
 * Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
 
