@@ -65,7 +65,9 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
-* Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
+* Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_
+
+* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 2.11–The Technology of Trust (29 November 2023)**
 
