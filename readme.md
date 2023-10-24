@@ -33,9 +33,9 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Karl Marx, "Reflections on Money," from _MECW_ Vol 10 ([Click Here](https://marxists.architexturez.net/archive/marx/works/1851/03/reflections.htm))
 
-* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_ ([Click Here](https://robmyers.org/2020/09/16/why-bitcoin-is-money-according-to-marx/))
-
 * Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_ ([Click Here](https://bafybeifc3lkdem6sblu7diamrilj46xeo5lqhmsh4r7szz5ctb3guvlpzu.ipfs.nftstorage.link/))
+
+* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_ ([Click Here](https://robmyers.org/2020/09/16/why-bitcoin-is-money-according-to-marx/))
 
 * _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_ ([Click Here](https://bafybeie3zr3fgmtusltrbezxollg23ihdxv35p7izj5luqupbu35eaitum.ipfs.nftstorage.link/))
 
