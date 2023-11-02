@@ -29,29 +29,27 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.9–Political Economy (1 November 2023)**
+**Session 2.X—Negation (8 November 2023)**
 
-* Karl Marx, "Reflections on Money," from _MECW_ Vol 10 ([Click Here](https://marxists.architexturez.net/archive/marx/works/1851/03/reflections.htm))
+* Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
 
-* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_ ([Click Here](https://bafybeifc3lkdem6sblu7diamrilj46xeo5lqhmsh4r7szz5ctb3guvlpzu.ipfs.nftstorage.link/))
+* Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
 
-* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_ ([Click Here](https://robmyers.org/2020/09/16/why-bitcoin-is-money-according-to-marx/))
+* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeibcbsqwvg4pr33vztvgcj2t7nohihiuat3a5n5yxgxqhi4lokwnue.ipfs.nftstorage.link/))
 
-* _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_ ([Click Here](https://bafybeie3zr3fgmtusltrbezxollg23ihdxv35p7izj5luqupbu35eaitum.ipfs.nftstorage.link/))
+* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiga6xeawdsahon6ft7jkujrwgvr52rw3uwkrz74hwbud7yaxn3xt4.ipfs.nftstorage.link/))
+
+* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiddd5o6hpfajuhkjlfczdyfv37hc4gzfhstdt2jtunqavsfstclvm.ipfs.nftstorage.link/))
+
+*  Alenka Zupancic, "Hegel and Freud: Between _Aufhebung_ and _Verneinung,_" from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/2017-03-01/alenka-zupancic.pdf))
+
+* Paolo Virno, "The Money of Language," from _An Essay on Negation: For A Linguistic Anthropology_ ([Click Here](https://bafybeihrhcbrby5a6skcg34d2oftrkjdi5shdgomnd7lcbtubzqiosumuy.ipfs.nftstorage.link/))
+
+* Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
-
-**Session 2.X—Negation (8 November 2023)**
-
-* Sigmund Freud, "Negation," from _SE_ Vol XIX
-
-* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung," from _Ècrits_
-
-* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_
-
-* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung," from _Ècrits_
 
 **Session 2.10–Money: Austrian and Informational (15 November 2023)**
 
@@ -168,6 +166,17 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 
 [Listen to Session 2.8](https://x.com/CoiningReason/status/1714854176461598738?s=20)
 
+**Session 2.9–Surplus (1 November 2023)**
+
+* Karl Marx, "Reflections on Money," from _MECW_ Vol 10 ([Click Here](https://marxists.architexturez.net/archive/marx/works/1851/03/reflections.htm))
+
+* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_ ([Click Here](https://bafybeifc3lkdem6sblu7diamrilj46xeo5lqhmsh4r7szz5ctb3guvlpzu.ipfs.nftstorage.link/))
+
+* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_ ([Click Here](https://robmyers.org/2020/09/16/why-bitcoin-is-money-according-to-marx/))
+
+* _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_ ([Click Here](https://bafybeie3zr3fgmtusltrbezxollg23ihdxv35p7izj5luqupbu35eaitum.ipfs.nftstorage.link/))
+
+[Listen to Session 2.9](https://x.com/CoiningReason/status/1719927706081509481?s=20)
 
 </details>
 
