@@ -31,6 +31,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.X—Negation (8 November 2023)**
 
+* Franco Lo Piparo, "Truth, Negation, and Meaning," from _Perspectives on Pragmatics and Philosophy_ ([Click Here](https://bafybeibnrnzwkeekn62htktmvmcawse5hd2cf3dg5l3ubf2jjxsjwab2ti.ipfs.nftstorage.link/))
+
 * Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
 
 * Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
