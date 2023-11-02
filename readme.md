@@ -47,7 +47,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Paolo Virno, "The Money of Language," from _An Essay on Negation: For A Linguistic Anthropology_ ([Click Here](https://bafybeihrhcbrby5a6skcg34d2oftrkjdi5shdgomnd7lcbtubzqiosumuy.ipfs.nftstorage.link/))
 
-* Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
+* _Optional:_ Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
