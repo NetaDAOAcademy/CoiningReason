@@ -29,7 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.X, Part 2—Coining Reason (15 November 2023)**
+**Session 2.X, Part 2—The Language of Money (15 November 2023)**
 
 * Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
 
@@ -68,6 +68,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * Edouard Pignot, "Bringing Down the House of Goldman Sachs: Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
 
 **Session 2.12–Money in Crisis (6 December 2023)**
+
+* Kojin Karatani, "Of Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_
  
 * Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
 
@@ -80,6 +82,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
 
 * Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
+
+* Slavoj Zizek, "Three Fragments on Suicide as a Political Factor," from _Crisis and Critique_
 
 </details>
 
