@@ -55,6 +55,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
+* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_
+
 * Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_
 
 * _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
@@ -65,15 +67,13 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
 
-* Edouard Pignot, "Bringing Down the House of Goldman Sachs: Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
+* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
 
 **Session 2.12–Money in Crisis (6 December 2023)**
 
 * Kojin Karatani, "Of Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_
  
 * Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
-
-* Ole Bjerg, "The Financialization of Money," from _Making Money: The Philosophy of Crisis Capitalism_
 
 * Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
 
