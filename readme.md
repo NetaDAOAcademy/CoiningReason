@@ -29,7 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.X, Part 2—The Language of Money (15 November 2023)**
+**Session 2.X, Part 2—The Money of Language (15 November 2023)**
 
 * Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
 
