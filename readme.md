@@ -29,11 +29,7 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.X—Negation (8 November 2023)**
-
-* Franco Lo Piparo, "Truth, Negation, and Meaning," from _Perspectives on Pragmatics and Philosophy_ ([Click Here](https://bafybeibnrnzwkeekn62htktmvmcawse5hd2cf3dg5l3ubf2jjxsjwab2ti.ipfs.nftstorage.link/))
-
-* Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
+**Session 2.X, Part 2—Coining Reason (15 November 2023)**
 
 * Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
 
@@ -53,7 +49,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 <summary> Planned Sessions </summary>
 
-**Session 2.10–Money: Austrian and Informational (15 November 2023)**
+**Session 2.10–Money: Austrian and Informational (22 November 2023)**
 
 * Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
 
@@ -179,6 +175,15 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 * _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_ ([Click Here](https://bafybeie3zr3fgmtusltrbezxollg23ihdxv35p7izj5luqupbu35eaitum.ipfs.nftstorage.link/))
 
 [Listen to Session 2.9](https://x.com/CoiningReason/status/1719927706081509481?s=20)
+
+**Session 2.X—Negation (8 November 2023)**
+
+* Franco Lo Piparo, "Truth, Negation, and Meaning," from _Perspectives on Pragmatics and Philosophy_ ([Click Here](https://bafybeibnrnzwkeekn62htktmvmcawse5hd2cf3dg5l3ubf2jjxsjwab2ti.ipfs.nftstorage.link/))
+
+* Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
+
+* [LIsten to Session 2.X](https://x.com/CoiningReason/status/1722479446869803172?s=20)
+
 
 </details>
 
