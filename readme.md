@@ -49,15 +49,17 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 <summary> Planned Sessions </summary>
 
-**Session 2.10–Money: Austrian and Informational (22 November 2023)**
+**Session 2.10–Bitcoin (22 November 2023)**
+
+* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_
 
 * Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
 
 * George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
 
-* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_
-
 * Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_
+
+* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 2.11–The Technology of Trust (29 November 2023)**
 
@@ -66,8 +68,6 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
 
 * Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
-
-* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 2.12–Money in Crisis (6 December 2023)**
 
