@@ -59,8 +59,6 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_
 
-* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
-
 **Session 2.11–The Technology of Trust (29 November 2023)**
 
 * Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_
@@ -68,6 +66,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
 
 * Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
+
+* _Optional:_ Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_
 
 **Session 2.12–Money in Crisis (6 December 2023)**
 
@@ -186,7 +186,7 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 
 * Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
 
-* [LIsten to Session 2.X](https://x.com/CoiningReason/status/1722479446869803172?s=20)
+[Listen to Session 2.X](https://x.com/CoiningReason/status/1722479446869803172?s=20)
 
 
 </details>
@@ -603,6 +603,8 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 * Elizabeth Edwards, "Money and Literature," from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
 
 * Anna Kornbluh, "Fictitious Capital/Real Psyche: Metalepsis, Psychologism, and the Grounds of Finance," from _Realizing Capital: Financial and Psychic Economies in Victorian Form_
+
+* Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 3. Poetry, Money, Grief**
 
