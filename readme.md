@@ -67,7 +67,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
 
-* _Optional:_ Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_
+* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 2.12–Money in Crisis (6 December 2023)**
 
@@ -79,11 +79,15 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.13–Money: The Negative (13 December 2023)**
 
+* Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_
+
 * Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
 
 * Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
 
 * Slavoj Zizek, "Three Fragments on Suicide as a Political Factor," from _Crisis and Critique_
+
+
 
 </details>
 
@@ -603,8 +607,6 @@ Art on blockchains, via NFTs, has been a popular area for cryptocurrency adoptio
 * Elizabeth Edwards, "Money and Literature," from _Money and Coinage in the Middle Ages_ (ed Rory Naismith)
 
 * Anna Kornbluh, "Fictitious Capital/Real Psyche: Metalepsis, Psychologism, and the Grounds of Finance," from _Realizing Capital: Financial and Psychic Economies in Victorian Form_
-
-* Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
 
 **Session 3. Poetry, Money, Grief**
 
