@@ -51,47 +51,49 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.10—Psychoanalysis of Money (22 November 2023)**
 
-* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_
+* Jodi Dean, "Communicative Capitalism: Circulation and the Foreclosure of Politics," from _Cultural Politics_ ((Click Here)[https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf])
 
-* John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_
+* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ((Click Here)[https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/])
+
+* John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ((Click Here)[https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/])
 
 **Session 2.11–Bitcoin (29 November 2023)**
 
-* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_
+* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_ ((Click Here)[https://bafkreihrwafc4dnhrjyerpkb3xlb6drj7ypoi74xvlikn3zimuvutnbxn4.ipfs.nftstorage.link/])
 
-* Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_
+* Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_ ((Click Here)[https://bafybeicqqgut3w3t3imdad23jvc5l56nl4v26r36ipoqsy6hazkwkmb6ve.ipfs.nftstorage.link/])
 
-* George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_
+* George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_ ((Click Here)[https://bafkreigbbauvn6sranzvvxpsdt75qk3jrhte4q3n2bxffmmahvk66zpcxi.ipfs.nftstorage.link/])
 
-* Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_
+* Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_ 
 
-* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_
+* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_ ((Click Here)[https://bafkreibor3dwhvyl7kcdyiuwd23zt22t4plmosy72cysogqfkvkeuwpyhi.ipfs.nftstorage.link/])
 
 **Session 2.12–The Technology of Trust (6 December 2023)**
 
-* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_
+* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_ ((Click Here)[https://bafybeidzmffa7lahqo4wnafe4yxtwutdvbvkng4n4qq2kh64sou6rfcgve.ipfs.nftstorage.link/])
 
-* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_
+* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_ ((Click Here)[https://bafybeieaids7a7a6y37g6gsusxipk3c3hnfwued4ay4ocaux4ej7i4evbm.ipfs.nftstorage.link/])
 
-* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_
+* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_ ((Click Here)[https://ephemerajournal.org/sites/default/files/2022-01/15-2pignot.pdf])
 
 **Session 2.13–Money in Crisis (13 December 2023)**
 
-* Kojin Karatani, "Of Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_
+* Kojin Karatani, "On Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_ ((Click Here[https://bafybeid6owojesq7gve6okuv23r3e7mfykcpnhjnkb4ac42v6niajmi4na.ipfs.nftstorage.link/]) and (Here)[https://bafybeiay7s3j5douusemg4q4wihcuvsislkwlb44ktkmwsrxdpl7btegr4.ipfs.nftstorage.link/])
  
-* Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway)
+* Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway) ((Click Here)[https://bafybeicx647d34oc5hzzxeiz57llkqzbg27tvhifwvufcxyntda7alkjuy.ipfs.nftstorage.link/])
 
-* Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_
+* Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_ ((Click Here)[https://bafkreicdh6azbkqwf2zvazg65bknrsu4iygxvsxig2filrt3iknt6a4qkq.ipfs.nftstorage.link/])
 
-* _Optional:_ Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_
+* _Optional:_ Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_ ((Click Here)[https://bafybeicbn266zbvnncccrxzchz26s3n6ppo2qiv4wrfrbyhhbjkjqdaedy.ipfs.nftstorage.link/])
 
 **Session 2.14–Money: The Negative (20 December 2023)**
 
-* Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_
+* Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_ ((Click Here)[https://bafybeiddbgqmgmt32xevauni624kedo7qisi4tz3kcijbyetxi2rv6rfqu.ipfs.nftstorage.link/])
 
-* Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_
+* Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_ ((Click Here)[https://bafybeic7ynhikt6hcopwf7ywwzf3p3k5mo63atimhts6t5fseixzu56rpu.ipfs.nftstorage.link/])
 
-* Slavoj Zizek, "Three Fragments on Suicide as a Political Factor," from _Crisis and Critique_
+* Slavoj Zizek, "Three Fragments on Suicide as a Political Factor," from _Crisis and Critique_ ((Click Here)[https://www.crisiscritique.org/storage/app/media/nov-25/slavoj-zizek.pdf])
 
 
 
