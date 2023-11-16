@@ -51,7 +51,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.10—Psychoanalysis of Money (22 November 2023)**
 
-* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Menaing of Money_
+* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_
 
 * John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_
 
