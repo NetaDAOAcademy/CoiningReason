@@ -79,6 +79,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.13–Money in Crisis (13 December 2023)**
 
+* Christine Desan, "Money's Design Elements: Debt, Liquidity, and the Pledge of Value from Medieval Coin to Modern 'Repo'," from _Banking and Finance Law Review_ ([Click Here](https://bafybeigt5hqnhsvj74tzbmozstknyr4yfq22ejjvtugylqp5uyk53tpdny.ipfs.nftstorage.link/))
+
 * Kojin Karatani, "On Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_ ([Click Here](https://bafybeid6owojesq7gve6okuv23r3e7mfykcpnhjnkb4ac42v6niajmi4na.ipfs.nftstorage.link/) and [Here](https://bafybeiay7s3j5douusemg4q4wihcuvsislkwlb44ktkmwsrxdpl7btegr4.ipfs.nftstorage.link/))
  
 * Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway) ([Click Here](https://bafybeicx647d34oc5hzzxeiz57llkqzbg27tvhifwvufcxyntda7alkjuy.ipfs.nftstorage.link/))
