@@ -43,6 +43,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 **Session 2.11–The Technology of Trust (18 January 2024)**
 
+* Christine Desan, "Money's Design Elements: Debt, Liquidity, and the Pledge of Value from Medieval Coin to Modern 'Repo'," from _Banking and Finance Law Review_ ([Click Here](https://bafybeigt5hqnhsvj74tzbmozstknyr4yfq22ejjvtugylqp5uyk53tpdny.ipfs.nftstorage.link/))
+
 * Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_ ([Click Here](https://bafybeidzmffa7lahqo4wnafe4yxtwutdvbvkng4n4qq2kh64sou6rfcgve.ipfs.nftstorage.link/))
 
 * Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_ ([Click Here](https://bafybeieaids7a7a6y37g6gsusxipk3c3hnfwued4ay4ocaux4ej7i4evbm.ipfs.nftstorage.link/))
@@ -62,8 +64,6 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 * _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_ ([Click Here](https://bafkreibor3dwhvyl7kcdyiuwd23zt22t4plmosy72cysogqfkvkeuwpyhi.ipfs.nftstorage.link/))
 
 **Session 2.13–Money in Crisis (1 February 2024)**
-
-* Christine Desan, "Money's Design Elements: Debt, Liquidity, and the Pledge of Value from Medieval Coin to Modern 'Repo'," from _Banking and Finance Law Review_ ([Click Here](https://bafybeigt5hqnhsvj74tzbmozstknyr4yfq22ejjvtugylqp5uyk53tpdny.ipfs.nftstorage.link/))
 
 * Kojin Karatani, "On Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_ ([Click Here](https://bafybeid6owojesq7gve6okuv23r3e7mfykcpnhjnkb4ac42v6niajmi4na.ipfs.nftstorage.link/) and [Here](https://bafybeiay7s3j5douusemg4q4wihcuvsislkwlb44ktkmwsrxdpl7btegr4.ipfs.nftstorage.link/))
  
