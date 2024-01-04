@@ -29,35 +29,27 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.X, Part 2—The Money of Language (16 November 2023)**
-
-* Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
-
-* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeibcbsqwvg4pr33vztvgcj2t7nohihiuat3a5n5yxgxqhi4lokwnue.ipfs.nftstorage.link/))
-
-* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiga6xeawdsahon6ft7jkujrwgvr52rw3uwkrz74hwbud7yaxn3xt4.ipfs.nftstorage.link/))
-
-* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiddd5o6hpfajuhkjlfczdyfv37hc4gzfhstdt2jtunqavsfstclvm.ipfs.nftstorage.link/))
-
-*  Alenka Zupancic, "Hegel and Freud: Between _Aufhebung_ and _Verneinung,_" from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/2017-03-01/alenka-zupancic.pdf))
-
-* Paolo Virno, "The Money of Language," from _An Essay on Negation: For A Linguistic Anthropology_ ([Click Here](https://bafybeihrhcbrby5a6skcg34d2oftrkjdi5shdgomnd7lcbtubzqiosumuy.ipfs.nftstorage.link/))
-
-* _Optional:_ Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
-
-<details markdown="1">
-
-<summary> Planned Sessions </summary>
-
-**Session 2.10—Psychoanalysis of Money (22 November 2023)**
+**Session 2.10—Psychoanalysis of Money (11 January 2024)**
 
 * Jodi Dean, "Communicative Capitalism: Circulation and the Foreclosure of Politics," from _Cultural Politics_ ([Click Here](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf))
 
 * Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
 
-* John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
+* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
 
-**Session 2.11–Bitcoin (29 November 2023)**
+<details markdown="1">
+
+<summary> Planned Sessions </summary>
+
+**Session 2.11–The Technology of Trust (18 January 2024)**
+
+* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_ ([Click Here](https://bafybeidzmffa7lahqo4wnafe4yxtwutdvbvkng4n4qq2kh64sou6rfcgve.ipfs.nftstorage.link/))
+
+* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_ ([Click Here](https://bafybeieaids7a7a6y37g6gsusxipk3c3hnfwued4ay4ocaux4ej7i4evbm.ipfs.nftstorage.link/))
+
+* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_ ([Click Here](https://ephemerajournal.org/sites/default/files/2022-01/15-2pignot.pdf))
+
+**Session 2.12–Bitcoin (25 January 2024)**
 
 * Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_ ([Click Here](https://bafkreihrwafc4dnhrjyerpkb3xlb6drj7ypoi74xvlikn3zimuvutnbxn4.ipfs.nftstorage.link/))
 
@@ -69,15 +61,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_ ([Click Here](https://bafkreibor3dwhvyl7kcdyiuwd23zt22t4plmosy72cysogqfkvkeuwpyhi.ipfs.nftstorage.link/))
 
-**Session 2.12–The Technology of Trust (6 December 2023)**
-
-* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_ ([Click Here](https://bafybeidzmffa7lahqo4wnafe4yxtwutdvbvkng4n4qq2kh64sou6rfcgve.ipfs.nftstorage.link/))
-
-* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_ ([Click Here](https://bafybeieaids7a7a6y37g6gsusxipk3c3hnfwued4ay4ocaux4ej7i4evbm.ipfs.nftstorage.link/))
-
-* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_ ([Click Here](https://ephemerajournal.org/sites/default/files/2022-01/15-2pignot.pdf))
-
-**Session 2.13–Money in Crisis (13 December 2023)**
+**Session 2.13–Money in Crisis (1 February 2024)**
 
 * Christine Desan, "Money's Design Elements: Debt, Liquidity, and the Pledge of Value from Medieval Coin to Modern 'Repo'," from _Banking and Finance Law Review_ ([Click Here](https://bafybeigt5hqnhsvj74tzbmozstknyr4yfq22ejjvtugylqp5uyk53tpdny.ipfs.nftstorage.link/))
 
@@ -89,7 +73,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * _Optional:_ Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_ ([Click Here](https://bafybeicbn266zbvnncccrxzchz26s3n6ppo2qiv4wrfrbyhhbjkjqdaedy.ipfs.nftstorage.link/))
 
-**Session 2.14–Money: The Negative (20 December 2023)**
+**Session 2.14–Money: The Negative (8 February 2024)**
 
 * Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_ ([Click Here](https://bafybeiddbgqmgmt32xevauni624kedo7qisi4tz3kcijbyetxi2rv6rfqu.ipfs.nftstorage.link/))
 
@@ -202,6 +186,23 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 
 [Listen to Session 2.X](https://x.com/CoiningReason/status/1722479446869803172?s=20)
 
+**Session 2.X, Part 2—The Money of Language (16 November 2023)**
+
+* Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
+
+* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeibcbsqwvg4pr33vztvgcj2t7nohihiuat3a5n5yxgxqhi4lokwnue.ipfs.nftstorage.link/))
+
+* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiga6xeawdsahon6ft7jkujrwgvr52rw3uwkrz74hwbud7yaxn3xt4.ipfs.nftstorage.link/))
+
+* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiddd5o6hpfajuhkjlfczdyfv37hc4gzfhstdt2jtunqavsfstclvm.ipfs.nftstorage.link/))
+
+*  Alenka Zupancic, "Hegel and Freud: Between _Aufhebung_ and _Verneinung,_" from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/2017-03-01/alenka-zupancic.pdf))
+
+* Paolo Virno, "The Money of Language," from _An Essay on Negation: For A Linguistic Anthropology_ ([Click Here](https://bafybeihrhcbrby5a6skcg34d2oftrkjdi5shdgomnd7lcbtubzqiosumuy.ipfs.nftstorage.link/))
+
+* _Optional:_ Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
+
+[Listen to Session 2.X, Part 2](https://x.com/CoiningReason/status/1737699683823190315?s=20)
 
 </details>
 
