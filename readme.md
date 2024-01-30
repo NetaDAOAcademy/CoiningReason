@@ -33,9 +33,9 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 * Jodi Dean, "Communicative Capitalism: Circulation and the Foreclosure of Politics," from _Cultural Politics_ ([Click Here](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf))
 
-* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
+* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
 
-* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
+* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
 
 <details markdown="1">
 
