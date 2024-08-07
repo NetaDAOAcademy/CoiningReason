@@ -209,10 +209,6 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 
 [Listen to Session 2.10](https://x.com/i/spaces/1lDxLPVYnaPxm)
 
-</details>
-
-<details markdown="1">
-
 **Session 2.11: Exchange: Self/Other (24 July 2024)**
 
 * Jacques Lacan, "[The Mirror Stage as Formative of the _I_ Function](https://www.sas.upenn.edu/~cavitch/pdf-library/Lacan%20Mirror%20Stage.pdf)," _Ècrits_ (trans. Bruce Fink)
@@ -222,6 +218,10 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 * SCREENING: _Where Is the Friend's House_, dir. Abbas Kiarostami on [Neta DAO Meeting](discord.netadao.zone)
 
 [Listen to Session 2.11](https://x.com/i/spaces/1mnGeALqwvPGX)
+
+</details>
+
+<details markdown="1">
 
 <summary> Unit 1: The Internet </summary>
 
