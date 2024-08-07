@@ -90,6 +90,82 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 <details markdown="1">
 
+<summary> Unit 1: The Internet </summary>
+
+**Session 1.0–Cypherpunk (5 April 2023)**
+
+* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
+
+* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
+
+* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
+
+[Listen to Sesssion 1.0](https://twitter.com/CoiningReason/status/1643765966025682945)
+
+**Session 1.1–Tele-History (12 April 2023)**
+
+* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
+
+[Listen to Session 1.1](https://twitter.com/CoiningReason/status/1646302811292852224)
+
+**Session 1.2–Web 1.0 (19 April 2023)**
+
+* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
+
+[Listen to Session 1.2](https://twitter.com/CoiningReason/status/1648839464796446720)
+  
+**Session 1.3–Freedom and Control Between Web 1 and Web 2 (26 April 2023)**
+
+* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
+
+Note: unrecorded
+
+**Session 1.4–The World Brain (3 May 2023)**
+
+* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
+  
+* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
+
+[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)<br>
+[Listen to Session 1.4, part 2](https://twitter.com/CoiningReason/status/1653914980763197440)
+
+**Session 1.5–Psychoanalyzing Cyberspace (10 May 2023)**
+
+* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
+
+[Listen to Session 1.5](https://twitter.com/CoiningReason/status/1658985960326012931?s=20)
+
+**Session 1.6–Digital Bodies (24 May 2023)**
+
+* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
+
+* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
+
+[Liaten to Session 1.6](https://twitter.com/CoiningReason/status/1661523165397254145)
+
+**Session 1.7–Web 3.0**
+
+* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
+
+* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
+
+* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
+
+* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
+
+[Listen to Session 1.7](https://twitter.com/CoiningReason/status/1664059235309633538)
+
+**Session 1.8–Digital Commons**
+
+* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
+
+* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
+
+* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
+
+[Listen to Session 1.8](https://twitter.com/CoiningReason/status/1666596944846659584)
+
+
 <summary> Unit 2: Money </summary>
 
 **Session 2.0–Re-Orientation (26 July 2023)**
@@ -213,8 +289,6 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 
 <details markdown="1">
 
-<summary> Unit 1: The Internet </summary>
-
 **Session 2.11: Exchange: Self/Other (24 July 2024)**
 
 * Jacques Lacan, "[The Mirror Stage as Formative of the _I_ Function](https://www.sas.upenn.edu/~cavitch/pdf-library/Lacan%20Mirror%20Stage.pdf)," _Ècrits_ (trans. Bruce Fink)
@@ -224,79 +298,6 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 * SCREENING: _Where Is the Friend's House_, dir. Abbas Kiarostami on [Neta DAO Meeting](discord.netadao.zone)
 
 [Listen to Session 2.11](https://x.com/i/spaces/1mnGeALqwvPGX)
-
-**Session 1.0–Cypherpunk (5 April 2023)**
-
-* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
-
-* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
-
-* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
-
-[Listen to Sesssion 1.0](https://twitter.com/CoiningReason/status/1643765966025682945)
-
-**Session 1.1–Tele-History (12 April 2023)**
-
-* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
-
-[Listen to Session 1.1](https://twitter.com/CoiningReason/status/1646302811292852224)
-
-**Session 1.2–Web 1.0 (19 April 2023)**
-
-* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
-
-[Listen to Session 1.2](https://twitter.com/CoiningReason/status/1648839464796446720)
-  
-**Session 1.3–Freedom and Control Between Web 1 and Web 2 (26 April 2023)**
-
-* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
-
-Note: unrecorded
-
-**Session 1.4–The World Brain (3 May 2023)**
-
-* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
-  
-* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
-
-[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)<br>
-[Listen to Session 1.4, part 2](https://twitter.com/CoiningReason/status/1653914980763197440)
-
-**Session 1.5–Psychoanalyzing Cyberspace (10 May 2023)**
-
-* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
-
-[Listen to Session 1.5](https://twitter.com/CoiningReason/status/1658985960326012931?s=20)
-
-**Session 1.6–Digital Bodies (24 May 2023)**
-
-* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
-
-* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
-
-[Liaten to Session 1.6](https://twitter.com/CoiningReason/status/1661523165397254145)
-
-**Session 1.7–Web 3.0**
-
-* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
-
-* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
-
-* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
-
-* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
-
-[Listen to Session 1.7](https://twitter.com/CoiningReason/status/1664059235309633538)
-
-**Session 1.8–Digital Commons**
-
-* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
-
-* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
-
-* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
-
-[Listen to Session 1.8](https://twitter.com/CoiningReason/status/1666596944846659584)
 
 </details>
 
