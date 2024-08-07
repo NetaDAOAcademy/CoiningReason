@@ -29,24 +29,17 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.11: Exchange: Self/Other (24 July 2024)**
+**Session 2.12: Filthy Lucre (21 August 2024)**
 
-* Jacques Lacan, "[The Mirror Stage as Formative of the _I_ Function](https://www.sas.upenn.edu/~cavitch/pdf-library/Lacan%20Mirror%20Stage.pdf)," _Ècrits_ (trans. Bruce Fink)
+* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
 
-* Giorgio Agamben, "[The Friend](https://archive.org/details/agamben-the-friend)," _What Is an Apparatus? and Other Essays_ (trans. 
-
-* SCREENING: _Where Is the Friend's House_, dir. Abbas Kiarostami on [Neta DAO Meeting](discord.netadao.zone)
+* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
 
 
 <details markdown="1">
 
 <summary> Planned Sessions </summary>
 
-**Session 2.12: Filthy Lucre**
-
-* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
-
-* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
 
 **Session 2.13–The Technology of Trust**
 
@@ -221,6 +214,16 @@ Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5
 <details markdown="1">
 
 <summary> Unit 1: The Internet </summary>
+
+**Session 2.11: Exchange: Self/Other (24 July 2024)**
+
+* Jacques Lacan, "[The Mirror Stage as Formative of the _I_ Function](https://www.sas.upenn.edu/~cavitch/pdf-library/Lacan%20Mirror%20Stage.pdf)," _Ècrits_ (trans. Bruce Fink)
+
+* Giorgio Agamben, "[The Friend](https://archive.org/details/agamben-the-friend)," _What Is an Apparatus? and Other Essays_ (trans. 
+
+* SCREENING: _Where Is the Friend's House_, dir. Abbas Kiarostami on [Neta DAO Meeting](discord.netadao.zone)
+
+[Listen to Session 2.11](https://x.com/i/spaces/1mnGeALqwvPGX)
 
 **Session 1.0–Cypherpunk (5 April 2023)**
 
