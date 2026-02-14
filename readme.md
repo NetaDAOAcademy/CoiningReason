@@ -9,15 +9,7 @@
 > —John Maynard Keynes
 
 
-## About
-
-The Coining Reason weekly discussion series explores ideas related to Web 3 through a set of texts within particular subject areas. The breadth of the selected subject areas, far from undisciplined indulgence, reflects an urgent necessity: financialization means practically all aspects of life are now subsumed by the rule and roil of coin, so that any single disciplinary approach is apt to miss or misrecognize those "constellations of facts" that index more potent realities. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Because of the varied depth and extensibility of these Units, Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
-
-The Schedule will be updated weekly to show the selected readings. Note the first session, "Session 0. Cypherpunks," has already been set. Readings not published online will be made available on the [Neta DAO Discord](https://discord.com/invite/gvjC86WXC2).
-
-
-
-## Current Schedule
+## Current Seminar
 
 ### Sex, and/or Love: Psychoanalysis and the Science of Desire
 
@@ -79,283 +71,17 @@ This seminar analyzes sexual desire through its principal science: psychoanalysi
 
 <br> 
 
-## On Hiatus: Unit 2: Economics 
 
-<details markdown="1">
+## About Coining Reason
 
-<summary> Unit 2: Money </summary>
+The Coining Reason discussion series explores ideas related to Web 3 through a set of texts within particular subject areas. The breadth of the selected subject areas, far from undisciplined indulgence, reflects an urgent necessity: financialization means practically all aspects of life are now subsumed by the rule and roil of coin, so that any single disciplinary approach is apt to miss or misrecognize those "constellations of facts" that index more potent realities. A Roadmap of these subject areas (called "Units"), with potential reading lists for each, is included below. Because of the varied depth and extensibility of these Units, Coining Reason's participants will ultimately help determine the pace, scale, and scope of these investigations.
 
-  ### Unit 2: Economics
-
-Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
-
-**Session 2.12—Money is Sad Shit**
-
-* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
-
-* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
-
-**Session 2.13–The Technology of Trust**
-
-* Christine Desan, "Money's Design Elements: Debt, Liquidity, and the Pledge of Value from Medieval Coin to Modern 'Repo'," from _Banking and Finance Law Review_ ([Click Here](https://bafybeigt5hqnhsvj74tzbmozstknyr4yfq22ejjvtugylqp5uyk53tpdny.ipfs.nftstorage.link/))
-
-* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_ ([Click Here](https://bafybeidzmffa7lahqo4wnafe4yxtwutdvbvkng4n4qq2kh64sou6rfcgve.ipfs.nftstorage.link/))
-
-* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_ ([Click Here](https://bafybeieaids7a7a6y37g6gsusxipk3c3hnfwued4ay4ocaux4ej7i4evbm.ipfs.nftstorage.link/))
-
-* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_ ([Click Here](https://ephemerajournal.org/sites/default/files/2022-01/15-2pignot.pdf))
-
-**Session 2.14–Bitcoin**
-
-* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_ ([Click Here](https://bafkreihrwafc4dnhrjyerpkb3xlb6drj7ypoi74xvlikn3zimuvutnbxn4.ipfs.nftstorage.link/))
-
-* Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_ ([Click Here](https://bafybeicqqgut3w3t3imdad23jvc5l56nl4v26r36ipoqsy6hazkwkmb6ve.ipfs.nftstorage.link/))
-
-* George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_ ([Click Here](https://bafkreigbbauvn6sranzvvxpsdt75qk3jrhte4q3n2bxffmmahvk66zpcxi.ipfs.nftstorage.link/))
-
-* Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_ ([Click Here](https://bafybeihcnmuhixvpeaibb3ldht7ih7bjzicad5e46thmq52456rzxyhtfa.ipfs.nftstorage.link/) and [Here](https://bafybeihddie46orc5rirxgbfleo57mkvgwjeavnazpj4hkbydz54qbwxqi.ipfs.nftstorage.link/))
-
-* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_ ([Click Here](https://bafkreibor3dwhvyl7kcdyiuwd23zt22t4plmosy72cysogqfkvkeuwpyhi.ipfs.nftstorage.link/))
-
-**Session 2.15–Money in Crisis**
-
-* Kojin Karatani, "On Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_ ([Click Here](https://bafybeid6owojesq7gve6okuv23r3e7mfykcpnhjnkb4ac42v6niajmi4na.ipfs.nftstorage.link/) and [Here](https://bafybeiay7s3j5douusemg4q4wihcuvsislkwlb44ktkmwsrxdpl7btegr4.ipfs.nftstorage.link/))
- 
-* Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway) ([Click Here](https://bafybeicx647d34oc5hzzxeiz57llkqzbg27tvhifwvufcxyntda7alkjuy.ipfs.nftstorage.link/))
-
-* Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_ ([Click Here](https://bafkreicdh6azbkqwf2zvazg65bknrsu4iygxvsxig2filrt3iknt6a4qkq.ipfs.nftstorage.link/))
-
-* _Optional:_ Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_ ([Click Here](https://bafybeicbn266zbvnncccrxzchz26s3n6ppo2qiv4wrfrbyhhbjkjqdaedy.ipfs.nftstorage.link/))
-
-**Session 2.16–Money: The Negative**
-
-* Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_ ([Click Here](https://bafybeiddbgqmgmt32xevauni624kedo7qisi4tz3kcijbyetxi2rv6rfqu.ipfs.nftstorage.link/))
-
-* Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_ ([Click Here](https://bafybeic7ynhikt6hcopwf7ywwzf3p3k5mo63atimhts6t5fseixzu56rpu.ipfs.nftstorage.link/))
-
-* Slavoj Zizek, "Three Fragments on Suicide as a Political Factor," from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/nov-25/slavoj-zizek.pdf))
+The Schedule will be updated weekly to show the selected readings. Note the first session, "Session 0. Cypherpunks," has already been set. Readings not published online will be made available on the [Neta DAO Discord](https://discord.com/invite/gvjC86WXC2).
 
 
-</details>
 
 <br>
 
-## Past Sessions
-
-<details markdown="1">
-
-<summary> Unit 2: Economics </summary>
-
-**Session 2.0–Re-Orientation (26 July 2023)**
-
-* _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
-
-[Listen to Session 2.0](https://twitter.com/CoiningReason/status/1684413715070824449)
-
-**Session 2.1–Economy (16 August 2023)**
-
-* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [(Click Here)](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
-
-* _Optional:_ Sigmund Freud, "The Economic Problem of Masochism," _Standard Edition of the Complete Psychological Works of Sigmund Freud_, Vol. 19 (trans. James Strachey) [(Click Here)](https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_Masochism.pdf)
-
-[Listen to Session 2.1](https://twitter.com/CoiningReason/status/1692061497554346489)
-
-
-**Session 2.2–Byzantine: Icon and Economy (30 August 2023)**
-
-* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ [(Click Here)](https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
-
-* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [(Click Here)](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
-
-[Listen to Session 2.2](https://twitter.com/CoiningReason/status/1697096725859549558)
-
-**Session 2.3—The Song of Money (6 September 2023)**
-
-* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ ([Click Here](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/))
-
-* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) ([Click Here](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/))
-
-[Listen to Session 2.3](https://twitter.com/CoiningReason/status/1699634141237579950?s=20)
-
-**Session 2.4–WTF Happened in 1579? (20 September 2023)**
-
-* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
-
-[Listen to Session 2.4](https://x.com/CoiningReason/status/1704707422546276702)
-
-**Session 2.5—Phenomenology of Money (27 September 2023)**
-
-*  Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_ ([Click Here](https://bafkreifhum47sttprsqnr5j5pnberezlcrlefjdgmjh56dj6glhrbe7bfi.ipfs.nftstorage.link/))
-
-[Listen to Session 2.5](https://x.com/CoiningReason/status/1707244287459483872?s=20)
-
-
-**Session 2.6–The Ontology of Money (4 October 2023)**
-
-* Mark Peacock, “Part 1: Theories,” from _Introducing Money_ ([Click Here](https://bafybeib7pr7ja4q4ejuesos6svmynfmykkrnvqhuiju2egcljozpg743w4.ipfs.nftstorage.link/))
-
-* Mark Peacock, "The Ontology of Money," from _Cambridge Journal of Economics_ ([Click Here](https://bafkreigzdunzj2cv64icjxwpy3wqjnkcan35iok2vx5aldbzf4ca7g6yqu.ipfs.nftstorage.link/))
-  
-* _Carry-over from 2.5:_ Rudi Visker, "Is There Death After Life?" from _Studia Universitatis Babes-Bolyai -
-Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5rtkbjpxm6n5gbu.ipfs.nftstorage.link/))
-
-[Listen to Session 2.6](https://x.com/CoiningReason/status/1709781162640498855)
-
-**Session 2.7–Money: Paper and Virtual (11 October 2023)** 
-
-* John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreidyu7ybt7ehhwuwh6fdrsus7y2ufgnvk26qzntey7grxm7bufhcee.ipfs.nftstorage.link/)
-
-* Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_ ([Click Here](https://bafkreiedtjtyl4tthhqisl4ain7zr3casdzc6azktio5dkupat42hjg6ay.ipfs.nftstorage.link/))
-
-* Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_ ([Click Here](https://bafkreied7fv32safadczvs32fmgug2itzjphstktaf46phgt6b4xbuzhai.ipfs.nftstorage.link/))
-
-[Listen to Session 2.7](https://x.com/CoiningReason/status/1712317539768799671?s=20)
-
-**Session 2.8: The Birth of Banking (18 October 2023)**
-
-* Christine Desan, “Reinventing Money: The Beginning of Bank Currency,” from _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
-
-* John Kenneth Galbraith, "The Impeccable System," from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
-
-[Listen to Session 2.8](https://x.com/CoiningReason/status/1714854176461598738?s=20)
-
-**Session 2.9–Surplus (1 November 2023)**
-
-* Karl Marx, "Reflections on Money," from _MECW_ Vol 10 ([Click Here](https://marxists.architexturez.net/archive/marx/works/1851/03/reflections.htm))
-
-* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_ ([Click Here](https://bafybeifc3lkdem6sblu7diamrilj46xeo5lqhmsh4r7szz5ctb3guvlpzu.ipfs.nftstorage.link/))
-
-* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_ ([Click Here](https://robmyers.org/2020/09/16/why-bitcoin-is-money-according-to-marx/))
-
-* _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_ ([Click Here](https://bafybeie3zr3fgmtusltrbezxollg23ihdxv35p7izj5luqupbu35eaitum.ipfs.nftstorage.link/))
-
-[Listen to Session 2.9](https://x.com/CoiningReason/status/1719927706081509481?s=20)
-
-**Session 2.X—Negation (8 November 2023)**
-
-* Franco Lo Piparo, "Truth, Negation, and Meaning," from _Perspectives on Pragmatics and Philosophy_ ([Click Here](https://bafybeibnrnzwkeekn62htktmvmcawse5hd2cf3dg5l3ubf2jjxsjwab2ti.ipfs.nftstorage.link/))
-
-* Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
-
-[Listen to Session 2.X](https://x.com/CoiningReason/status/1722479446869803172?s=20)
-
-**Session 2.X, Part 2—The Money of Language (16 November 2023)**
-
-* Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
-
-* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeibcbsqwvg4pr33vztvgcj2t7nohihiuat3a5n5yxgxqhi4lokwnue.ipfs.nftstorage.link/))
-
-* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiga6xeawdsahon6ft7jkujrwgvr52rw3uwkrz74hwbud7yaxn3xt4.ipfs.nftstorage.link/))
-
-* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiddd5o6hpfajuhkjlfczdyfv37hc4gzfhstdt2jtunqavsfstclvm.ipfs.nftstorage.link/))
-
-*  Alenka Zupancic, "Hegel and Freud: Between _Aufhebung_ and _Verneinung,_" from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/2017-03-01/alenka-zupancic.pdf))
-
-* Paolo Virno, "The Money of Language," from _An Essay on Negation: For A Linguistic Anthropology_ ([Click Here](https://bafybeihrhcbrby5a6skcg34d2oftrkjdi5shdgomnd7lcbtubzqiosumuy.ipfs.nftstorage.link/))
-
-* _Optional:_ Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
-
-[Listen to Session 2.X, Part 2](https://x.com/CoiningReason/status/1737699683823190315?s=20)
-
-**Session 2.10—Psychoanalysis of Money (11 January 2024)**
-
-* Jodi Dean, "Communicative Capitalism: Circulation and the Foreclosure of Politics," from _Cultural Politics_ ([Click Here](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf))
-
-[Listen to Session 2.10](https://x.com/i/spaces/1lDxLPVYnaPxm)
-
-**Session 2.11: Exchange: Self/Other (24 July 2024)**
-
-* Jacques Lacan, "[The Mirror Stage as Formative of the _I_ Function](https://www.sas.upenn.edu/~cavitch/pdf-library/Lacan%20Mirror%20Stage.pdf)," _Ècrits_ (trans. Bruce Fink)
-
-* Giorgio Agamben, "[The Friend](https://archive.org/details/agamben-the-friend)," _What Is an Apparatus? and Other Essays_ (trans. 
-
-* SCREENING: _Where Is the Friend's House_, dir. Abbas Kiarostami on [Neta DAO Meeting](discord.netadao.zone)
-
-[Listen to Session 2.11](https://x.com/i/spaces/1mnGeALqwvPGX)
-
-</details>
-
-<details markdown="1">
-
-<summary> Unit 1: The Internet </summary>
-
-**Session 1.0–Cypherpunk (5 April 2023)**
-
-* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
-
-* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
-
-* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
-
-[Listen to Sesssion 1.0](https://twitter.com/CoiningReason/status/1643765966025682945)
-
-**Session 1.1–Tele-History (12 April 2023)**
-
-* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
-
-[Listen to Session 1.1](https://twitter.com/CoiningReason/status/1646302811292852224)
-
-**Session 1.2–Web 1.0 (19 April 2023)**
-
-* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
-
-[Listen to Session 1.2](https://twitter.com/CoiningReason/status/1648839464796446720)
-  
-**Session 1.3–Freedom and Control Between Web 1 and Web 2 (26 April 2023)**
-
-* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
-
-Note: unrecorded
-
-**Session 1.4–The World Brain (3 May 2023)**
-
-* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
-  
-* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
-
-[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)<br>
-[Listen to Session 1.4, part 2](https://twitter.com/CoiningReason/status/1653914980763197440)
-
-**Session 1.5–Psychoanalyzing Cyberspace (10 May 2023)**
-
-* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
-
-[Listen to Session 1.5](https://twitter.com/CoiningReason/status/1658985960326012931?s=20)
-
-**Session 1.6–Digital Bodies (24 May 2023)**
-
-* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
-
-* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
-
-[Liaten to Session 1.6](https://twitter.com/CoiningReason/status/1661523165397254145)
-
-**Session 1.7–Web 3.0**
-
-* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
-
-* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
-
-* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
-
-* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
-
-[Listen to Session 1.7](https://twitter.com/CoiningReason/status/1664059235309633538)
-
-**Session 1.8–Digital Commons**
-
-* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
-
-* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
-
-* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
-
-[Listen to Session 1.8](https://twitter.com/CoiningReason/status/1666596944846659584)
-
-
-</details>
-
-<br>
 
 ## Original Roadmap
 
@@ -789,6 +515,287 @@ An ongoing overflow of texts considered for inclusion in other Units but not sel
 </details>
 
 </details><br>
+
+
+
+## Past Sessions
+
+<details markdown="1">
+
+<summary> Unit 2: Economics </summary>
+
+**Session 2.0–Re-Orientation (26 July 2023)**
+
+* _Optional:_ Rhea Myers, "[Computers and Capital: The Rise of Digital Currency](https://www.furtherfield.org/computers-and-capital-the-rise-of-digital-currency/)"
+
+[Listen to Session 2.0](https://twitter.com/CoiningReason/status/1684413715070824449)
+
+**Session 2.1–Economy (16 August 2023)**
+
+* Keith Tribe, "The Word: Economy," from _The Economy of the Word: Language, History, and Economics_ [(Click Here)](https://bafybeiezdiybq5xappdkpismqr2xl62gvellkvh57pt2kxdkjrgzuv2oji.ipfs.nftstorage.link/)
+
+* _Optional:_ Sigmund Freud, "The Economic Problem of Masochism," _Standard Edition of the Complete Psychological Works of Sigmund Freud_, Vol. 19 (trans. James Strachey) [(Click Here)](https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_Masochism.pdf)
+
+[Listen to Session 2.1](https://twitter.com/CoiningReason/status/1692061497554346489)
+
+
+**Session 2.2–Byzantine: Icon and Economy (30 August 2023)**
+
+* Marie-Jose Mondzain, “A Semantic Study of the Term Economy,” from _Image, Icon, Economy: The Byzantine Origins of the Contemporary Imaginary_ [(Click Here)](https://bafybeihbzgqb3anabiwdsqyt6yn5ixbq2rxfwe4mbeu3np3mfth4dm6qgm.ipfs.nftstorage.link/)
+
+* _Optional:_ Gilles Deleuze and Felix Guattari, "Apparatus of Capture (7000 BC)" from _A Thousand Plateaus: Schizophrenia and Capitalism_ [(Click Here)](https://bafybeiblxswsrm7otnynhfe5275j5dp4wuiqdutl45sveadieyu4zb4k44.ipfs.nftstorage.link/)
+
+[Listen to Session 2.2](https://twitter.com/CoiningReason/status/1697096725859549558)
+
+**Session 2.3—The Song of Money (6 September 2023)**
+
+* Massimo Amato, "Silence is Gold: Some Preliminary Notes on Money, Speech and Calculation," from _Money and Calculation: Economic and Sociological Analyses_ ([Click Here](https://bafkreifci3o5zcokyevnripkersjscdfujvjnniyqnwd2k6e73dgjpkeai.ipfs.nftstorage.link/))
+
+* Gaspar Feliu, “Money and Currency,” from _Money and Coinage in the Middle Ages_ (ed Rory Naismith) ([Click Here](https://bafkreigz64qabegyqyclbwmtts4lxodkec7sczq6e4mhgcrfiqf63mevcu.ipfs.nftstorage.link/))
+
+[Listen to Session 2.3](https://twitter.com/CoiningReason/status/1699634141237579950?s=20)
+
+**Session 2.4–WTF Happened in 1579? (20 September 2023)**
+
+* Marie-Therese Boyer-Xambeu, Ghislain Deleplace, and Lucien Gillard, "Money and Society in Sixteenth Century Europe" and "The International Monetary Crisis of the 1570s," from _Private Money and Public Currencies: The Sixteenth Century Challenge_ ([Click Here](https://bafybeiavtvghtnm5tddipakha5gb44ju4gof4o236x75gxta4mttd3qiuq.ipfs.nftstorage.link/)) and ([Here](https://bafybeigsxugppkg3y4xzpyolvjhfi52ka3c6zighwf4aisb5ip3k3w762i.ipfs.nftstorage.link/))
+
+[Listen to Session 2.4](https://x.com/CoiningReason/status/1704707422546276702)
+
+**Session 2.5—Phenomenology of Money (27 September 2023)**
+
+*  Massimo Amato and Luca Fantacci, "Part I: Phenomenology," from _The End of Finance_ ([Click Here](https://bafkreifhum47sttprsqnr5j5pnberezlcrlefjdgmjh56dj6glhrbe7bfi.ipfs.nftstorage.link/))
+
+[Listen to Session 2.5](https://x.com/CoiningReason/status/1707244287459483872?s=20)
+
+
+**Session 2.6–The Ontology of Money (4 October 2023)**
+
+* Mark Peacock, “Part 1: Theories,” from _Introducing Money_ ([Click Here](https://bafybeib7pr7ja4q4ejuesos6svmynfmykkrnvqhuiju2egcljozpg743w4.ipfs.nftstorage.link/))
+
+* Mark Peacock, "The Ontology of Money," from _Cambridge Journal of Economics_ ([Click Here](https://bafkreigzdunzj2cv64icjxwpy3wqjnkcan35iok2vx5aldbzf4ca7g6yqu.ipfs.nftstorage.link/))
+  
+* _Carry-over from 2.5:_ Rudi Visker, "Is There Death After Life?" from _Studia Universitatis Babes-Bolyai -
+Philosophia_ ([Click Here](https://bafkreicihxgr4465dzqchepuikgmdamcd2bgzlok6hz5rtkbjpxm6n5gbu.ipfs.nftstorage.link/))
+
+[Listen to Session 2.6](https://x.com/CoiningReason/status/1709781162640498855)
+
+**Session 2.7–Money: Paper and Virtual (11 October 2023)** 
+
+* John Kenneth Galbraith, “Of Paper,” “An Instrument of Revolution,” from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreidyu7ybt7ehhwuwh6fdrsus7y2ufgnvk26qzntey7grxm7bufhcee.ipfs.nftstorage.link/)
+
+* Joan Robinson, “The Keynesian Revolution,” from _Economic Philosophy_ ([Click Here](https://bafkreiedtjtyl4tthhqisl4ain7zr3casdzc6azktio5dkupat42hjg6ay.ipfs.nftstorage.link/))
+
+* Edward Castranova, “Weirdly Normal: Virtual Economies and Virtual Money,” from _Wildcat Currency: How the Virtual Money Revolution is Transforming the Economy_ ([Click Here](https://bafkreied7fv32safadczvs32fmgug2itzjphstktaf46phgt6b4xbuzhai.ipfs.nftstorage.link/))
+
+[Listen to Session 2.7](https://x.com/CoiningReason/status/1712317539768799671?s=20)
+
+**Session 2.8: The Birth of Banking (18 October 2023)**
+
+* Christine Desan, “Reinventing Money: The Beginning of Bank Currency,” from _Making Money: Coin, Currency, and the Coming of Capitalism_ ([Click Here](https://bafybeic32yhohjbmc6y7xaerdqrzig6a5li5e3tsd2gqus523drdeejpte.ipfs.nftstorage.link/))
+
+* John Kenneth Galbraith, "The Impeccable System," from _Money: Whence It Came, Where It Went_ ([Click Here](https://bafkreif2nnved2hzj2fluegryl75dlvcvv7otgkg5sz4zwpz7jdrmtajgu.ipfs.nftstorage.link/))
+
+[Listen to Session 2.8](https://x.com/CoiningReason/status/1714854176461598738?s=20)
+
+**Session 2.9–Surplus (1 November 2023)**
+
+* Karl Marx, "Reflections on Money," from _MECW_ Vol 10 ([Click Here](https://marxists.architexturez.net/archive/marx/works/1851/03/reflections.htm))
+
+* Stefan Eich, “Money as Capital: Karl Marx and the Limits of Monetary Politics,” from _The Currency of Politics: The Political Theory of Money from Aristotle to Keynes_ ([Click Here](https://bafybeifc3lkdem6sblu7diamrilj46xeo5lqhmsh4r7szz5ctb3guvlpzu.ipfs.nftstorage.link/))
+
+* Rhea Myers, "Why Bitcoin is Money According to Marx," from _Proof of Work: Blockchain Provocations, 2011-2021_ ([Click Here](https://robmyers.org/2020/09/16/why-bitcoin-is-money-according-to-marx/))
+
+* _Optional:_ Karl Marx, “Theories of Surplus Value,” from _Grundrisse: Foundations of the Critique of Political Economy_ ([Click Here](https://bafybeie3zr3fgmtusltrbezxollg23ihdxv35p7izj5luqupbu35eaitum.ipfs.nftstorage.link/))
+
+[Listen to Session 2.9](https://x.com/CoiningReason/status/1719927706081509481?s=20)
+
+**Session 2.X—Negation (8 November 2023)**
+
+* Franco Lo Piparo, "Truth, Negation, and Meaning," from _Perspectives on Pragmatics and Philosophy_ ([Click Here](https://bafybeibnrnzwkeekn62htktmvmcawse5hd2cf3dg5l3ubf2jjxsjwab2ti.ipfs.nftstorage.link/))
+
+* Paolo Virno, "Mirror Neurons and the Faculty of Negation," from _An Essay on Negation: For a Linguistic Anthropology_ ([Click Here](https://bafybeicie5mprmb2uuk6nlwgr4in6l53ymd6hs4rmseon3pfngfrsfg274.ipfs.nftstorage.link/))
+
+[Listen to Session 2.X](https://x.com/CoiningReason/status/1722479446869803172?s=20)
+
+**Session 2.X, Part 2—The Money of Language (16 November 2023)**
+
+* Sigmund Freud, "Negation," from _SE_ Vol XIX ([Click Here](https://bafybeiaw7apgy4gumgfy2buzsadqlfflptese36ns4nrjvutwbv4rihgvq.ipfs.nftstorage.link/))
+
+* Jacques Lacan, "Introduction to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeibcbsqwvg4pr33vztvgcj2t7nohihiuat3a5n5yxgxqhi4lokwnue.ipfs.nftstorage.link/))
+
+* Jean Hyppolite, "A Spoken Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiga6xeawdsahon6ft7jkujrwgvr52rw3uwkrz74hwbud7yaxn3xt4.ipfs.nftstorage.link/))
+
+* Jacques Lacan, "Response to Jean Hyppolite's Commentary on Freud's 'Verneinung,'" from _Ècrits_ ([Click Here](https://bafybeiddd5o6hpfajuhkjlfczdyfv37hc4gzfhstdt2jtunqavsfstclvm.ipfs.nftstorage.link/))
+
+*  Alenka Zupancic, "Hegel and Freud: Between _Aufhebung_ and _Verneinung,_" from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/2017-03-01/alenka-zupancic.pdf))
+
+* Paolo Virno, "The Money of Language," from _An Essay on Negation: For A Linguistic Anthropology_ ([Click Here](https://bafybeihrhcbrby5a6skcg34d2oftrkjdi5shdgomnd7lcbtubzqiosumuy.ipfs.nftstorage.link/))
+
+* _Optional:_ Raymond Ruyer, "There Is No Subconscious: Embryogenesis and Memory," from _Diogenes_ ([Click Here](https://bafybeigvxhfwiyor4t6hu66ccble34ghywcypw3mzvwdulubb2v5oam7k4.ipfs.nftstorage.link/))
+
+[Listen to Session 2.X, Part 2](https://x.com/CoiningReason/status/1737699683823190315?s=20)
+
+**Session 2.10—Psychoanalysis of Money (11 January 2024)**
+
+* Jodi Dean, "Communicative Capitalism: Circulation and the Foreclosure of Politics," from _Cultural Politics_ ([Click Here](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf))
+
+[Listen to Session 2.10](https://x.com/i/spaces/1lDxLPVYnaPxm)
+
+**Session 2.11: Exchange: Self/Other (24 July 2024)**
+
+* Jacques Lacan, "[The Mirror Stage as Formative of the _I_ Function](https://www.sas.upenn.edu/~cavitch/pdf-library/Lacan%20Mirror%20Stage.pdf)," _Ècrits_ (trans. Bruce Fink)
+
+* Giorgio Agamben, "[The Friend](https://archive.org/details/agamben-the-friend)," _What Is an Apparatus? and Other Essays_ (trans. 
+
+* SCREENING: _Where Is the Friend's House_, dir. Abbas Kiarostami on [Neta DAO Meeting](discord.netadao.zone)
+
+[Listen to Session 2.11](https://x.com/i/spaces/1mnGeALqwvPGX)
+
+</details>
+
+<details markdown="1">
+
+<summary> Unit 1: The Internet </summary>
+
+**Session 1.0–Cypherpunk (5 April 2023)**
+
+* Eric Hughes, "[A Cypherpunk's Manifesto](https://activism.net/cypherpunk/manifesto.html)"
+
+* Timothy May, "[The Crypto Anarchist Manifesto](https://activism.net/cypherpunk/crypto-anarchy.html)"
+
+* Nick Srnicek, "[Trusting the Trustless](https://fabricatedintimacy.tech/articles/example-2)"
+
+[Listen to Sesssion 1.0](https://twitter.com/CoiningReason/status/1643765966025682945)
+
+**Session 1.1–Tele-History (12 April 2023)**
+
+* Tom Standage, "The Mother of All Networks" and "Love Over the Wires," from _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers_ ([Click Here](https://bafybeibamm7xofngu2siky4ufncrn2mijj3r4ggzxii4disvxsjbxoyipm.ipfs.nftstorage.link/))
+
+[Listen to Session 1.1](https://twitter.com/CoiningReason/status/1646302811292852224)
+
+**Session 1.2–Web 1.0 (19 April 2023)**
+
+* Jessa Lingel, "Becoming Craig's List: San Francisco Roots and the Ethics of Web 1.0" and "Craigslist, the Secondary Marketplace, and Politics of Value," from _An Internet for the People: The Politics and Promise of Craigslist_ ([Click Here](https://bafybeidpphhtnjvrdnpxqmhizvzi2eop7lrasmv2mm5ll7zag3anpdg4ly.ipfs.nftstorage.link/))
+
+[Listen to Session 1.2](https://twitter.com/CoiningReason/status/1648839464796446720)
+  
+**Session 1.3–Freedom and Control Between Web 1 and Web 2 (26 April 2023)**
+
+* Wendy Chun, "Why Cyberspace?" from _Control and Freedom: Power and Paranoia in the Age of Fiber Optics_ ([Click Here](https://bafkreiewopo6egzdfbv577ht3md7xvygo46dplbnrx26cksaz6nfnc54za.ipfs.nftstorage.link/))
+
+Note: unrecorded
+
+**Session 1.4–The World Brain (3 May 2023)**
+
+* Charles Petzold,  "The World Brain," from _Code: The Hidden Language of Computer Hardware and Software_ ([Click Here](https://bafybeigssuizfc5etspc6emggenwyyl25dzvjxnamoowh754knhvbdt2ii.ipfs.nftstorage.link/))
+  
+* Justin Smith, "A Sudden Acceleration," from _The Internet is Not What You Think It Is: A History, A Philosophy, A Warning_ ([Click Here](https://bafybeih2h3mgcj3pzy6sz6kqedqmx4o6tkjk5qzlmhk3xaqlkvkhuktdba.ipfs.nftstorage.link/))
+
+[Liaten to Session 1.4, part 1](https://twitter.com/CoiningReason/status/1653912677574496261)<br>
+[Listen to Session 1.4, part 2](https://twitter.com/CoiningReason/status/1653914980763197440)
+
+**Session 1.5–Psychoanalyzing Cyberspace (10 May 2023)**
+
+* André Nusselder, "The Question Concerning Technology and Desire" and "The Technologization of Human Virtuality," from *Interface Fantasy: A Lacanian Cyborg Ontology* ([Click Here](https://bafybeic3elqxzrhirmc2kgw5rjmyrunb4yro65jnfcipn4sylwl6ma7e2m.ipfs.nftstorage.link/))
+
+[Listen to Session 1.5](https://twitter.com/CoiningReason/status/1658985960326012931?s=20)
+
+**Session 1.6–Digital Bodies (24 May 2023)**
+
+* Slavoj Zizek, "How Real Is Reality?" from _Looking Awry: An Introduction to Jacques Lacan through Popular Culture_ (see Neta DAO Discord)
+
+* Clint Burnham, "Is the Internet a Thing?" from _Does the Internet Have an Unconscious? Slavoj Zizek and Digital Culture_ ([Click Here](https://bafybeiarqqrjbl3hlunwnibkenk4k2545ulawuvcq42lbwtoru2w7rvpci.ipfs.nftstorage.link/))
+
+[Liaten to Session 1.6](https://twitter.com/CoiningReason/status/1661523165397254145)
+
+**Session 1.7–Web 3.0**
+
+* Joel Monegro, "[The Blockchain Application Stack](https://www.coindesk.com/markets/2014/11/30/the-blockchain-application-stack/)"
+
+* ---, "[The Shared Data Layer of the Blockchain Application Stack](https://jmonegro.tumblr.com/post/104755282493/the-shared-data-layer-of-the-blockchain)"
+
+* ---,"[Fat Protocols](https://www.usv.com/blog/fat-protocols)"
+
+* ---, "[Thin Applications](https://www.placeholder.vc/blog/2020/1/30/thin-applications)"
+
+[Listen to Session 1.7](https://twitter.com/CoiningReason/status/1664059235309633538)
+
+**Session 1.8–Digital Commons**
+
+* Nick Szabo, "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)"
+
+* Jameson Lopp, "[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)"
+
+* Jae Kwon and Ethan Buchman, "[Cosmos Whitepaper: A Network of Distributed Ledgers](https://v1.cosmos.network/resources/whitepaper)"
+
+[Listen to Session 1.8](https://twitter.com/CoiningReason/status/1666596944846659584)
+
+
+</details>
+
+<br>
+
+
+## On Hiatus: Unit 2: Economics 
+
+<details markdown="1">
+
+<summary> Unit 2: Money </summary>
+
+  ### Unit 2: Economics
+
+Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
+
+**Session 2.12—Money is Sad Shit**
+
+* Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
+
+* _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
+
+**Session 2.13–The Technology of Trust**
+
+* Christine Desan, "Money's Design Elements: Debt, Liquidity, and the Pledge of Value from Medieval Coin to Modern 'Repo'," from _Banking and Finance Law Review_ ([Click Here](https://bafybeigt5hqnhsvj74tzbmozstknyr4yfq22ejjvtugylqp5uyk53tpdny.ipfs.nftstorage.link/))
+
+* Jens Beckert, "Trust and the Performative Construction of Markets," from _Max Planck Institute for the Study of Societies Discussion Papers_ ([Click Here](https://bafybeidzmffa7lahqo4wnafe4yxtwutdvbvkng4n4qq2kh64sou6rfcgve.ipfs.nftstorage.link/))
+
+* Jacques Lacan, Sessions 1 and 2, from _Seminar XVI: From an Other to the other_ ([Click Here](https://bafybeieaids7a7a6y37g6gsusxipk3c3hnfwued4ay4ocaux4ej7i4evbm.ipfs.nftstorage.link/))
+
+* Edouard Pignot, "Bringing Down the House (of Goldman Sachs): Analyzing Corrupt Forms of Trading with Lacan," from _Ephemera: Theory and Politics in Organization_ ([Click Here](https://ephemerajournal.org/sites/default/files/2022-01/15-2pignot.pdf))
+
+**Session 2.14–Bitcoin**
+
+* Ole Bjerg, "How Is Bitcoin Money?" from _Theory, Culture, and Society_ ([Click Here](https://bafkreihrwafc4dnhrjyerpkb3xlb6drj7ypoi74xvlikn3zimuvutnbxn4.ipfs.nftstorage.link/))
+
+* Saifedean Ammous, “Digital Money” and “What Is Bitcoin Good For?” from _The Bitcoin Standard: The Decentralized Alternative to Central Banking_ ([Click Here](https://bafybeicqqgut3w3t3imdad23jvc5l56nl4v26r36ipoqsy6hazkwkmb6ve.ipfs.nftstorage.link/))
+
+* George Gilder, “Money in Information Theory” and “What Bitcoin Can Teach,” from _The Scandal of Money: Why Wall Street Recovers but the Economy Never Does_ ([Click Here](https://bafkreigbbauvn6sranzvvxpsdt75qk3jrhte4q3n2bxffmmahvk66zpcxi.ipfs.nftstorage.link/))
+
+* Lyn Alden, "The Creation of Stateless Money" and "A World of Openness or a World of Control," from _Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better_ ([Click Here](https://bafybeihcnmuhixvpeaibb3ldht7ih7bjzicad5e46thmq52456rzxyhtfa.ipfs.nftstorage.link/) and [Here](https://bafybeihddie46orc5rirxgbfleo57mkvgwjeavnazpj4hkbydz54qbwxqi.ipfs.nftstorage.link/))
+
+* _Optional:_ Frances Ferguson, "Bitcoin: A Reader's Guide (The Beauty of the Very Idea)," from _Critical Inquiry_ ([Click Here](https://bafkreibor3dwhvyl7kcdyiuwd23zt22t4plmosy72cysogqfkvkeuwpyhi.ipfs.nftstorage.link/))
+
+**Session 2.15–Money in Crisis**
+
+* Kojin Karatani, "On Modes of Exchange" and "Toward a World Republic," from _The Structure of World History_ ([Click Here](https://bafybeid6owojesq7gve6okuv23r3e7mfykcpnhjnkb4ac42v6niajmi4na.ipfs.nftstorage.link/) and [Here](https://bafybeiay7s3j5douusemg4q4wihcuvsislkwlb44ktkmwsrxdpl7btegr4.ipfs.nftstorage.link/))
+ 
+* Werner Bonefeld, "Monetarism and Crisis," from _Global Capitalism, National State and the Politics of Money_ (eds. Werner Bonefeld and John Holloway) ([Click Here](https://bafybeicx647d34oc5hzzxeiz57llkqzbg27tvhifwvufcxyntda7alkjuy.ipfs.nftstorage.link/))
+
+* Werner Bonefeld, "Notes on Fetishism, History, and Uncertainty: Beyond the Critique of Austerity," from _Notes From Tomorrow: On Reason, Negation, and Certainty_ ([Click Here](https://bafkreicdh6azbkqwf2zvazg65bknrsu4iygxvsxig2filrt3iknt6a4qkq.ipfs.nftstorage.link/))
+
+* _Optional:_ Tomaz Fleischman, Paolo Dini, and Giuseppe Littera, "Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis," from _Journal of Risk and Financial Management_ ([Click Here](https://bafybeicbn266zbvnncccrxzchz26s3n6ppo2qiv4wrfrbyhhbjkjqdaedy.ipfs.nftstorage.link/))
+
+**Session 2.16–Money: The Negative**
+
+* Giorgio Agamben, "The Economy of the Moderns," from _The Kingdom and the Glory: For a Theological Genealogy of Economy and Government_ ([Click Here](https://bafybeiddbgqmgmt32xevauni624kedo7qisi4tz3kcijbyetxi2rv6rfqu.ipfs.nftstorage.link/))
+
+* Samo Tomsic, "The Vicious Circle of Labor and Resistance," from _The Labor of Enjoyment: Toward a Critique of Libidinal Economy_ ([Click Here](https://bafybeic7ynhikt6hcopwf7ywwzf3p3k5mo63atimhts6t5fseixzu56rpu.ipfs.nftstorage.link/))
+
+* Slavoj Zizek, "Three Fragments on Suicide as a Political Factor," from _Crisis and Critique_ ([Click Here](https://www.crisiscritique.org/storage/app/media/nov-25/slavoj-zizek.pdf))
+
+
+</details>
+
+
 
 ## Note
 
