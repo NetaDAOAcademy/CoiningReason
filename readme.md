@@ -55,11 +55,15 @@ This seminar analyzes sexual desire through its principal science: psychoanalysi
   
 * Jacques Lacan, "The Signification of the Phallus," from _Ècrits_
 
+* Dennis Cooper, _The Dream Police_
+
 **Session 4: Traumatophilia (15 April 2026)**
 
 * Sigmund Freud, _Beyond the Pleasure Principle_
 
 * Avgi Saketapoulou, "To Suffer Pleasure: Limit Experience and Transgression" and "Toward a Theory of Traumatophilia," from _Sexuality Beyond Consent: Risk, Race, Traumatophilia_
+
+* Film: _Dans Ma Peau_, dir. Marina de Van (screening to be scheduled)
 
 **Session 5: Femininity (29 April 2026)**
 
@@ -67,9 +71,10 @@ This seminar analyzes sexual desire through its principal science: psychoanalysi
 
 * Catherine Malabou, _Pleasure Erased: The Clitoris Unthought_
 
-**Session 6: The Tenacious Adventure (13 May 2026)**
+**Session 6: The Measure of Love (13 May 2026)**
 
 * Lauren Berlant, _Desire/Love_
+
 * Alain Badiou, _In Praise of Love_
 
 **Session 7: The Ends of Sex (27 May 2026)**
