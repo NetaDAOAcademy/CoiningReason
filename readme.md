@@ -25,21 +25,78 @@ The Schedule will be updated weekly to show the selected readings. Note the firs
 
 ## Current Schedule
 
-### Unit 2: Money
+### Sex, and/or Love: Psychoanalysis and the Science of Desire
+
+This seminar analyzes sexual desire through its principal science: psychoanalysis. Because desire is a force rather than an object, this “science of desire” questions the limits of ordinary empiricism by placing questioning—with its attendant themes of trust and doubt, obsession and uncertainty—at the center of existence. Thus, we will reinscribe the reality of reality through the unconscious. We will discuss such topics as paid sex, consensual non-consent, the biology and evolution of sex, female orgasm, self-harm and self-pleasure, the ungovernable, and the futurity of romance.
+
+**Session 0: Seduction (18 February 2026)**
+
+* Lydia Davis, "Break It Down," from _Break It Down: Stories_ ([Click Here for Audio]([https://www.thisamericanlife.org/88/numbers/act-five-1) or ([Click Here for Text](https://github.com/cosmonought/readings/blob/main/Lydia%20Davis%20Break%20It%20Down.pdf))
+
+<details markdown="1">
+
+<summary> Planned Engagements </summary>
+
+**Session 1: Freudian Sexuality (4 March 2026)**
+
+* Sigmund Freud, _Three Essays on the Theory of Sexuality_
+
+* Jean Laplanche, "Gender, Sex, and the Sexual," from _Freud and the Sexual_
+
+**Session 2: Evolving Sex (18 March 2026)**
+
+* Lynn Margulis, selections from _Mystery Dance: On the Evolution of Human Sexuality_
+
+* Stella Sandford, "Plant Philosophy and Plant Sex: Aristotle to Albertus," "From Analogy to Identity: The Carnival of Plant Sex," and "Vegetal Sexuality and Us," from _Vegetal Sex_
+
+**Session 3: Lacanian Sexuality (1 April 2026)**
+
+* Tim Dean, "Beyond the Couch," "How to Read Lacan," and "Bodies That Mutter," from _Beyond Sexuality_
+  
+* Jacques Lacan, "The Signification of the Phallus," from _Ècrits_
+
+**Session 4: Traumatophilia (15 April 2026)**
+
+* Sigmund Freud, _Beyond the Pleasure Principle_
+
+* Avgi Saketapoulou, "To Suffer Pleasure: Limit Experience and Transgression" and "Toward a Theory of Traumatophilia," from _Sexuality Beyond Consent: Risk, Race, Traumatophilia_
+
+**Session 5: Femininity (29 April 2026)**
+
+* Sigmund Freud, "On Femininity"
+
+* Catherine Malabou, _Pleasure Erased: The Clitoris Unthought_
+
+**Session 6: The Tenacious Adventure (13 May 2026)**
+
+* Lauren Berlant, _Desire/Love_
+* Alain Badiou, _In Praise of Love_
+
+**Session 7: The Ends of Sex (27 May 2026)**
+
+* Jean-Luc Nancy and Irving Goh, _The Deconstruction of Sex_
+
+</details>
+
+</summary>
+
+<br> 
+
+## On Hiatus: Unit 2: Economics 
+
+<details markdown="1">
+
+<summary> Unit 2: Money </summary>
+
+  ### Unit 2: Economics
 
 Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an intervention in digital technology as it is in monetary theory. In this Unit, we will present histories and theories of the "money" concept, as well as strive to ascertain a relation between money and surplus value. The economic problem of surplus value will be brought into connection with human nature's surplus of virtuality as explored in Unit I.
 
-**Session 2.12: Money is Sad Shit (21 August 2024)**
+**Session 2.12—Money is Sad Shit**
 
 * Norman O. Brown, "Filthy Lucre," from _Life Against Death: The Psychoanalytical Meaning of History_ ([Click Here](https://bafybeibahwyabgxh3kdrmlepnzv7ugfcllvnnzy7srx57sx7d34el7ejaq.ipfs.nftstorage.link/))
 
 * _Optional:_ John Forrester, "Gift, Money, and Debt," from _Truth Games: Lies, Money, and Psychoanalysis_ ([Click Here](https://bafybeifj6eu4f6ikl7h5g3vqiggimanusfhvdkqr4lls7beehe222xwb44.ipfs.nftstorage.link/))
-
-
-<details markdown="1">
-
-<summary> Planned Sessions </summary>
-
 
 **Session 2.13–The Technology of Trust**
 
@@ -83,6 +140,8 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 
 </details>
+
+</summary>
 
 <br>
 
@@ -305,6 +364,9 @@ Note: unrecorded
 
 ## Original Roadmap
 
+<details markdown="1">
+
+<summary>Original Roadmap</summary>
 
 <details markdown="1">
 
@@ -729,8 +791,9 @@ An ongoing overflow of texts considered for inclusion in other Units but not sel
 
 * Mary Jacobus, "[Cloud Studies: The Visible Invisible](https://www.enl.auth.gr/gramma/gramma06/jacobus.pdf)," from _Gramma: A Journal of Theory and Criticism,_ vol 14
 
-</details><br>
+</details>
 
+</details><br>
 
 ## Note
 
