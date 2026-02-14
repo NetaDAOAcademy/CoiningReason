@@ -12,7 +12,7 @@
 ## Current Seminar
 
 <p align="center">
-<img id="SexLove Title" src="/assets/img/SexLove Title.png" />
+<img id="SexLove Title2" src="/assets/img/SexLove Title2.png" />
 </p>
 
 ### Sex, and/or Love: Psychoanalysis and the Science of Desire
