@@ -31,7 +31,7 @@ This seminar analyzes sexual desire through its principal science: psychoanalysi
 
 **Session 0: Seduction (18 February 2026)**
 
-* Lydia Davis, "Break It Down," from _Break It Down: Stories_ ([Click Here for Audio]([https://www.thisamericanlife.org/88/numbers/act-five-1)) or ([Click Here for Text](https://github.com/cosmonought/readings/blob/main/Lydia%20Davis%20Break%20It%20Down.pdf))
+* Lydia Davis, "Break It Down," from _Break It Down: Stories_ ([Click Here for Text](https://github.com/cosmonought/readings/blob/main/Lydia%20Davis%20Break%20It%20Down.pdf) or [Click Here for Audio](https://www.thisamericanlife.org/88/numbers/act-five-1))
 
 <details markdown="1">
 
