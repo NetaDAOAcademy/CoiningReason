@@ -797,7 +797,7 @@ Before all the talk of "Web 3," there was Bitcoin, and Bitcoin is as much an int
 
 </details>
 
-
+<br>
 
 ## Note
 
