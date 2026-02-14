@@ -11,6 +11,10 @@
 
 ## Current Seminar
 
+<p align="center">
+<img id="SexLove Title" src="/assets/img/SexLove Title.png" />
+</p>
+
 ### Sex, and/or Love: Psychoanalysis and the Science of Desire
 
 This seminar analyzes sexual desire through its principal science: psychoanalysis. Because desire is a force rather than an object, this “science of desire” questions the limits of ordinary empiricism by placing questioning—with its attendant themes of trust and doubt, obsession and uncertainty—at the center of existence. Thus, we will reinscribe the reality of reality through the unconscious. We will discuss such topics as paid sex, consensual non-consent, the biology and evolution of sex, female orgasm, self-harm and self-pleasure, the ungovernable, and the futurity of romance.
