@@ -9,7 +9,7 @@
 > —John Maynard Keynes
 
 
-## Current Seminar
+## Current Seminar: Sex, and/or Love
 
 <p align="center">
 <img id="SexLove Title2" src="/assets/img/SexLove Title2.png" />
