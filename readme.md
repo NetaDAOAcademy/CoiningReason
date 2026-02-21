@@ -20,7 +20,7 @@
 This seminar analyzes sexual desire through its principal science: psychoanalysis. Because desire is a force rather than an object, this “science of desire” questions the limits of ordinary empiricism by placing questioning—with its attendant themes of trust and doubt, obsession and uncertainty—at the center of existence. Thus, we will reinscribe the reality of reality through the unconscious. We will discuss such topics as paid sex, consensual non-consent, the biology and evolution of sex, female orgasm, self-harm and self-pleasure, the ungovernable, and the futurity of romance.
 
 
-**Session 1: Freudian Sexuality (4 March 2026)**
+**Session 1: The Origin of Sexuality (4 March 2026)**
 
 * Sigmund Freud, _Three Essays on the Theory of Sexuality_ ([Click Here](https://www.dropbox.com/scl/fi/v5lhi7b8pndmu0k30j6ov/three-essays.pdf))
 
