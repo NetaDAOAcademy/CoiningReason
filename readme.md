@@ -19,31 +19,20 @@
 
 This seminar analyzes sexual desire through its principal science: psychoanalysis. Because desire is a force rather than an object, this “science of desire” questions the limits of ordinary empiricism by placing questioning—with its attendant themes of trust and doubt, obsession and uncertainty—at the center of existence. Thus, we will reinscribe the reality of reality through the unconscious. We will discuss such topics as paid sex, consensual non-consent, the biology and evolution of sex, female orgasm, self-harm and self-pleasure, the ungovernable, and the futurity of romance.
 
+**Session 2: Sexual Difference (8 April 2026)**
 
-**Session 1: The Origin of Sexuality (4 March 2026)**
+* Lynn Margulis, "Evolutionary Striptease" and "Phallic Psyche," from _Mystery Dance: On the Evolution of Human Sexuality_ ([Click Here](https://github.com/NetaDAOAcademy/CoiningReason/blob/main/assets/Margulis_Mystery%20Dance_excerpts.pdf))
 
-* Sigmund Freud, _Three Essays on the Theory of Sexuality_ ([Click Here](https://www.dropbox.com/scl/fi/v5lhi7b8pndmu0k30j6ov/three-essays.pdf))
+* Stella Sandford, "Plant Philosophy and Plant Sex: Aristotle to Albertus" and "What are 'Male' and 'Female' in Botany?," from _Vegetal Sex: Philosophy of Plants_ ([Click Here](https://github.com/NetaDAOAcademy/CoiningReason/blob/main/assets/Sandford_Vegetal%20Sex_excerpts.pdf))
 
-* Jean Laplanche, selections from _Life and Death in Psychoanalysis_ and _Freud and the Sexual_ ([Click Here](https://github.com/NetaDAOAcademy/CoiningReason/blob/main/assets/Laplanche.pdf))
-
-**Please note:_** As a slight change from the announced readings, the following should be considered "essential" and read in sequence: 
-1. the first chapter of Freud's _Three Essays_ ("The Sexual Aberrations"), followed by
-2. Laplanche's "The Order of Life and the Genesis of Human Sexuality," and
-3. "Gender, Sex, and the _Sexual._"
-
-The remaining essays are highly recommended, but supplementary.
+* Lucy Cooke, "Introduction" and "The Anarchy of Sex: What is a Female?," from _Bitch: On the Female of the Species_ ([Click Here](https://github.com/NetaDAOAcademy/CoiningReason/blob/main/assets/Cooke_Bitch%20excerpts.pdf))
 
 <details markdown="1">
 
 <summary> Future Engagements </summary>
 
-**Session 2: Evolving Sex (18 March 2026)**
 
-* Lynn Margulis, selections from _Mystery Dance: On the Evolution of Human Sexuality_
-
-* Stella Sandford, "Plant Philosophy and Plant Sex: Aristotle to Albertus," "From Analogy to Identity: The Carnival of Plant Sex," and "Vegetal Sexuality and Us," from _Vegetal Sex_
-
-**Session 3: Lacanian Sexuality (1 April 2026)**
+**Session 3: Lacanian Sexuality (April 2026)**
 
 * Tim Dean, "Beyond the Couch," "How to Read Lacan," and "Bodies That Mutter," from _Beyond Sexuality_
   
@@ -51,7 +40,7 @@ The remaining essays are highly recommended, but supplementary.
 
 * Dennis Cooper, _The Dream Police_
 
-**Session 4: Traumatophilia (15 April 2026)**
+**Session 4: Traumatophilia (April 2026)**
 
 * Sigmund Freud, _Beyond the Pleasure Principle_
 
@@ -59,19 +48,19 @@ The remaining essays are highly recommended, but supplementary.
 
 * Film: _Dans Ma Peau_, dir. Marina de Van (screening to be scheduled)
 
-**Session 5: Femininity (29 April 2026)**
+**Session 5: Femininity (May 2026)**
 
 * Sigmund Freud, "On Femininity"
 
 * Catherine Malabou, _Pleasure Erased: The Clitoris Unthought_
 
-**Session 6: The Measure of Love (13 May 2026)**
+**Session 6: The Measure of Love (May 2026)**
 
 * Lauren Berlant, _Desire/Love_
 
 * Alain Badiou, _In Praise of Love_
 
-**Session 7: The Ends of Sex (27 May 2026)**
+**Session 7: The Ends of Sex (June 2026)**
 
 * Jean-Luc Nancy and Irving Goh, _The Deconstruction of Sex_
 
@@ -86,6 +75,19 @@ The remaining essays are highly recommended, but supplementary.
 **Session 0: Seduction (18 February 2026)**
 
 * Lydia Davis, "Break It Down," from _Break It Down: Stories_ ([Click Here for Text](https://github.com/cosmonought/readings/blob/main/Lydia%20Davis%20Break%20It%20Down.pdf) or [Click Here for Audio](https://www.thisamericanlife.org/88/numbers/act-five-1))
+
+**Session 1: The Origin of Sexuality (4 March 2026)**
+
+* Sigmund Freud, _Three Essays on the Theory of Sexuality_ ([Click Here](https://www.dropbox.com/scl/fi/v5lhi7b8pndmu0k30j6ov/three-essays.pdf))
+
+* Jean Laplanche, selections from _Life and Death in Psychoanalysis_ and _Freud and the Sexual_ ([Click Here](https://github.com/NetaDAOAcademy/CoiningReason/blob/main/assets/Laplanche.pdf))
+
+**Please note:_** As a slight change from the announced readings, the following should be considered "essential" and read in sequence: 
+1. the first chapter of Freud's _Three Essays_ ("The Sexual Aberrations"), followed by
+2. Laplanche's "The Order of Life and the Genesis of Human Sexuality," and
+3. "Gender, Sex, and the _Sexual._"
+
+The remaining essays are highly recommended, but supplementary.
 
 * </details>
 
